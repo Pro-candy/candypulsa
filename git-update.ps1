@@ -8,11 +8,11 @@ if ([string]::IsNullOrWhiteSpace($Message)) {
     exit
 }
 
-Write-Host "Menghapus .env dari staging (jika ada)..."
-git rm --cached .env 2>$null
-
 Write-Host "Menambahkan semua file ke staging..."
 git add .
+
+Write-Host "Menghapus .env dari staging (jika ada)..."
+git rm --cached .env 2>$null
 
 Write-Host "Melakukan commit dengan pesan: $Message"
 git commit -m "$Message"
