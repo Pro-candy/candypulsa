@@ -121,7 +121,7 @@ Route::get('/sitemap.xml', function () {
         ->header('Content-Type', 'application/xml');
 });
 
-
+// cek perubahaan Firebase
 
 Route::get('/firebase-test', function (Database $database) {
     $reference = $database->getReference('test_node');
