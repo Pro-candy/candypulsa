@@ -120,3 +120,15 @@ Route::get('/sitemap.xml', function () {
     return response()->view('sitemap', compact('list'))
         ->header('Content-Type', 'application/xml');
 });
+
+// cek perubahaan Firebase
+
+Route::get('/firebase-test', function (Database $database) {
+    $reference = $database->getReference('test_node');
+    $reference->set([
+        'message' => 'Hello from Laravel!',
+        'timestamp' => now()->toDateTimeString(),
+    ]);
+
+    return 'Data berhasil dikirim ke Firebase!';
+});
