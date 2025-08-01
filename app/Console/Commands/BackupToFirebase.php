@@ -54,6 +54,6 @@ class BackupToFirebase extends Command
             $db->getReference('stok_riwayat/' . $r->id)->set($r->toArray());
         }
 
-        $this->info('✅ Backup selesai!');
+        $this->info('✅ Backup selesai! yaang mantap boss okay ');
     }
 }

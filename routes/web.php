@@ -113,7 +113,7 @@ Route::get('/member-area', function () {
     return redirect()->route('login');
 });
 
-
+// routes sitemap
 Route::get('/sitemap.xml', function () {
     $list = json_decode(file_get_contents(storage_path('quran/surat.json')), true);
 
