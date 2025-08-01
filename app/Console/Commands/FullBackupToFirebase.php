@@ -23,10 +23,7 @@ class FullBackupToFirebase extends Command
         $rawTables = DB::select('SHOW TABLES');
         $tableKey = 'Tables_in_' . DB::getDatabaseName(); // contoh: Tables_in_candypulsa
 
-        $tables = array_map(function ($row) use ($tableKey) {
-            return $row->$tableKey;
-        }, $rawTables);
-
+        $tables = array_map(fn($row) => $row->$tableKey, $rawTables);
 
         foreach ($tables as $table) {
             if (in_array($table, $this->skipTables)) {
@@ -34,18 +31,37 @@ class FullBackupToFirebase extends Command
                 continue;
             }
 
-            $this->info("Backup tabel: $table");
+            $this->info("🔄 Backup tabel: $table");
 
-            $rows = DB::table($table)->get();
+            $rows = DB::table($table)->get()->map(function ($row) {
+                return array_map(function ($value) {
+                    return is_array($value) ? implode(',', $value) : $value;
+                }, (array) $row);
+            });
 
             foreach ($rows as $row) {
                 $array = (array) $row;
-                $primaryKey = $array['id'] ?? uniqid();
 
+                foreach ($array as $key => $val) {
+                    if (is_array($val)) {
+                        $array[$key] = implode(',', $val); // sudah benar
+                    }
+                }
+
+                // PERBAIKAN UTAMA:
+                if (isset($array['prefix_tujuan']) && is_string($array['prefix_tujuan'])) {
+                    // hilangkan spasi tak perlu
+                    $array['prefix_tujuan'] = trim($array['prefix_tujuan']);
+                    // jika array koma TANPA kutip, kita pastikan tidak akan meledak di restore
+                    $array['prefix_tujuan'] = str_replace(["\n", "\r"], '', $array['prefix_tujuan']);
+                }
+
+                $primaryKey = $array['id'] ?? uniqid();
                 $db->getReference($table . '/' . $primaryKey)->set($array);
             }
+
         }
 
-        $this->info("✅ Backup seluruh database ke Firebase selesai!");
+        $this->info("✅ Backup seluruh database ke Firebase selesai! mantap boss");
     }
 }
