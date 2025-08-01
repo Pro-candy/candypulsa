@@ -1,0 +1,39 @@
+{
+    "nomor": 113,
+    "nama_latin": "Al-Falaq",
+    "arti": "Makkiyah",
+    "jumlah_ayat": 5,
+    "slug": "al-falaq",
+    "ayat": [
+        {
+            "ayat": 1,
+            "arab": "قُلْ اَعُوْذُ بِرَبِّ الْفَلَقِۙ ۝١",
+            "latin": "qul a‘ûdzu birabbil-falaq",
+            "terjemah": "Katakanlah (Nabi Muhammad), “Aku berlindung kepada Tuhan yang (menjaga) fajar (subuh)"
+        },
+        {
+            "ayat": 2,
+            "arab": "مِنْ شَرِّ مَا خَلَقَۙ ۝٢",
+            "latin": "min syarri mâ khalaq",
+            "terjemah": "dari kejahatan (makhluk yang) Dia ciptakan,"
+        },
+        {
+            "ayat": 3,
+            "arab": "وَمِنْ شَرِّ غَاسِقٍ اِذَا وَقَبَۙ ۝٣",
+            "latin": "wa min syarri ghâsiqin idzâ waqab",
+            "terjemah": "dari kejahatan malam apabila telah gelap gulita,"
+        },
+        {
+            "ayat": 4,
+            "arab": "وَمِنْ شَرِّ النَّفّٰثٰتِ فِى الْعُقَدِۙ ۝٤",
+            "latin": "wa min syarrin-naffâtsâti fil-‘uqad",
+            "terjemah": "dari kejahatan perempuan-perempuan (penyihir) yang meniup pada buhul-buhul (talinya),"
+        },
+        {
+            "ayat": 5,
+            "arab": "وَمِنْ شَرِّ حَاسِدٍ اِذَا حَسَدَࣖ ۝٥",
+            "latin": "wa min syarri ḫâsidin idzâ ḫasad",
+            "terjemah": "dan dari kejahatan orang yang dengki apabila dia dengki.”"
+        }
+    ]
+}

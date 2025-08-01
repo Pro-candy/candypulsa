@@ -1,0 +1,345 @@
+{
+    "nomor": 74,
+    "nama_latin": "Al-Muddatstsir",
+    "arti": "Makkiyah",
+    "jumlah_ayat": 56,
+    "slug": "al-muddatstsir",
+    "ayat": [
+        {
+            "ayat": 1,
+            "arab": "يٰٓاَيُّهَا الْمُدَّثِّرُۙ ۝١",
+            "latin": "yâ ayyuhal-muddatstsir",
+            "terjemah": "Wahai orang yang berselimut (Nabi Muhammad),"
+        },
+        {
+            "ayat": 2,
+            "arab": "قُمْ فَاَنْذِرْۖ ۝٢",
+            "latin": "qum fa andzir",
+            "terjemah": "bangunlah, lalu berilah peringatan!"
+        },
+        {
+            "ayat": 3,
+            "arab": "وَرَبَّكَ فَكَبِّرْۖ ۝٣",
+            "latin": "wa rabbaka fa kabbir",
+            "terjemah": "Tuhanmu, agungkanlah!"
+        },
+        {
+            "ayat": 4,
+            "arab": "وَثِيَابَكَ فَطَهِّرْۖ ۝٤",
+            "latin": "wa tsiyâbaka fa thahhir",
+            "terjemah": "Pakaianmu, bersihkanlah!"
+        },
+        {
+            "ayat": 5,
+            "arab": "وَالرُّجْزَ فَاهْجُرْۖ ۝٥",
+            "latin": "war-rujza fahjur",
+            "terjemah": "Segala (perbuatan) yang keji, tinggalkanlah!"
+        },
+        {
+            "ayat": 6,
+            "arab": "وَلَا تَمْنُنْ تَسْتَكْثِرُۖ ۝٦",
+            "latin": "wa lâ tamnun tastaktsir",
+            "terjemah": "Janganlah memberi (dengan maksud) memperoleh (balasan) yang lebih banyak!"
+        },
+        {
+            "ayat": 7,
+            "arab": "وَلِرَبِّكَ فَاصْبِرْۗ ۝٧",
+            "latin": "wa lirabbika fashbir",
+            "terjemah": "Karena Tuhanmu, bersabarlah!"
+        },
+        {
+            "ayat": 8,
+            "arab": "فَاِذَا نُقِرَ فِى النَّاقُوْرِۙ ۝٨",
+            "latin": "fa idzâ nuqira fin-nâqûr",
+            "terjemah": "Apabila sangkakala ditiup,"
+        },
+        {
+            "ayat": 9,
+            "arab": "فَذٰلِكَ يَوْمَىِٕذٍ يَّوْمٌ عَسِيْرٌۙ ۝٩",
+            "latin": "fa dzâlika yauma'idziy yaumun ‘asîr",
+            "terjemah": "hari itulah hari yang sulit,"
+        },
+        {
+            "ayat": 10,
+            "arab": "عَلَى الْكٰفِرِيْنَ غَيْرُ يَسِيْرٍ ۝١٠",
+            "latin": "‘alal-kâfirîna ghairu yasîr",
+            "terjemah": "(yang) tidak mudah bagi orang-orang kafir."
+        },
+        {
+            "ayat": 11,
+            "arab": "ذَرْنِيْ وَمَنْ خَلَقْتُ وَحِيْدًاۙ ۝١١",
+            "latin": "dzarnî wa man khalaqtu waḫîdâ",
+            "terjemah": "Biarkanlah Aku (yang bertindak) terhadap orang yang Aku ciptakan dia dalam kesendirian."
+        },
+        {
+            "ayat": 12,
+            "arab": "وَّجَعَلْتُ لَهٗ مَالًا مَّمْدُوْدًاۙ ۝١٢",
+            "latin": "wa ja‘altu lahû mâlam mamdûdâ",
+            "terjemah": "Aku beri dia kekayaan yang melimpah,"
+        },
+        {
+            "ayat": 13,
+            "arab": "وَّبَنِيْنَ شُهُوْدًاۙ ۝١٣",
+            "latin": "wa banîna syuhûdâ",
+            "terjemah": "anak-anak yang selalu bersamanya,"
+        },
+        {
+            "ayat": 14,
+            "arab": "وَّمَهَّدْتُّ لَهٗ تَمْهِيْدًاۙ ۝١٤",
+            "latin": "wa mahhattu lahû tamhîdâ",
+            "terjemah": "dan Aku beri dia kelapangan (hidup) seluas-luasnya."
+        },
+        {
+            "ayat": 15,
+            "arab": "ثُمَّ يَطْمَعُ اَنْ اَزِيْدَۙ ۝١٥",
+            "latin": "tsumma yathma‘u an azîd",
+            "terjemah": "Kemudian, dia ingin sekali agar Aku menambahnya."
+        },
+        {
+            "ayat": 16,
+            "arab": "كَلَّاۗ اِنَّهٗ كَانَ لِاٰيٰتِنَا عَنِيْدًاۗ ۝١٦",
+            "latin": "kallâ, innahû kâna li'âyâtinâ ‘anîdâ",
+            "terjemah": "Sekali-kali tidak! Sesungguhnya dia telah menentang ayat-ayat Kami (Al-Qur’an)."
+        },
+        {
+            "ayat": 17,
+            "arab": "سَاُرْهِقُهٗ صَعُوْدًاۗ ۝١٧",
+            "latin": "sa'ur-hiquhû sha‘ûdâ",
+            "terjemah": "Aku akan membebaninya dengan pendakian yang memayahkan."
+        },
+        {
+            "ayat": 18,
+            "arab": "اِنَّهٗ فَكَّرَ وَقَدَّرَۙ ۝١٨",
+            "latin": "innahû fakkara wa qaddar",
+            "terjemah": "Sesungguhnya dia telah memikirkan dan menetapkan (apa yang ditetapkannya)."
+        },
+        {
+            "ayat": 19,
+            "arab": "فَقُتِلَ كَيْفَ قَدَّرَۙ ۝١٩",
+            "latin": "fa qutila kaifa qaddar",
+            "terjemah": "Maka, binasalah dia. Bagaimanakah dia menetapkan?"
+        },
+        {
+            "ayat": 20,
+            "arab": "ثُمَّ قُتِلَ كَيْفَ قَدَّرَۙ ۝٢٠",
+            "latin": "tsumma qutila kaifa qaddar",
+            "terjemah": "Kemudian, binasalah dia. Bagaimanakah dia menetapkan?"
+        },
+        {
+            "ayat": 21,
+            "arab": "ثُمَّ نَظَرَۙ ۝٢١",
+            "latin": "tsumma nadhar",
+            "terjemah": "Kemudian dia memikirkan (untuk melecehkan Al-Qur’an)."
+        },
+        {
+            "ayat": 22,
+            "arab": "ثُمَّ عَبَسَ وَبَسَرَۙ ۝٢٢",
+            "latin": "tsumma ‘abasa wa basar",
+            "terjemah": "Kemudian, dia berwajah masam dan cemberut (karena tidak menemukan kelemahan Al-Qur’an)."
+        },
+        {
+            "ayat": 23,
+            "arab": "ثُمَّ اَدْبَرَ وَاسْتَكْبَرَۙ ۝٢٣",
+            "latin": "tsumma adbara wastakbar",
+            "terjemah": "Kemudian, dia berpaling (dari kebenaran) dan menyombongkan diri."
+        },
+        {
+            "ayat": 24,
+            "arab": "فَقَالَ اِنْ هٰذَآ اِلَّا سِحْرٌ يُّؤْثَرُۙ ۝٢٤",
+            "latin": "fa qâla in hâdzâ illâ siḫruy yu'tsar",
+            "terjemah": "Lalu, dia berkata, “(Al-Qur’an) ini tidak lain, kecuali sihir yang dipelajari (dari orang-orang terdahulu)."
+        },
+        {
+            "ayat": 25,
+            "arab": "اِنْ هٰذَآ اِلَّا قَوْلُ الْبَشَرِۗ ۝٢٥",
+            "latin": "in hâdzâ illâ qaulul-basyar",
+            "terjemah": "Ini tidak lain kecuali perkataan manusia.”"
+        },
+        {
+            "ayat": 26,
+            "arab": "سَاُصْلِيْهِ سَقَرَ ۝٢٦",
+            "latin": "sa'ushlîhi saqar",
+            "terjemah": "Aku akan memasukkannya ke dalam (neraka) Saqar."
+        },
+        {
+            "ayat": 27,
+            "arab": "وَمَآ اَدْرٰىكَ مَا سَقَرُۗ ۝٢٧",
+            "latin": "wa mâ adrâka mâ saqar",
+            "terjemah": "Tahukah kamu apa (neraka) Saqar itu?"
+        },
+        {
+            "ayat": 28,
+            "arab": "لَا تُبْقِيْ وَلَا تَذَرُۚ ۝٢٨",
+            "latin": "lâ tubqî wa lâ tadzar",
+            "terjemah": "(Neraka Saqar itu) tidak meninggalkan (sedikit pun bagian jasmani) dan tidak membiarkan(-nya luput dari siksaan)."
+        },
+        {
+            "ayat": 29,
+            "arab": "لَوَّاحَةٌ لِّلْبَشَرِۚ ۝٢٩",
+            "latin": "lawwâḫatul lil-basyar",
+            "terjemah": "(Neraka Saqar itu) menghanguskan kulit manusia."
+        },
+        {
+            "ayat": 30,
+            "arab": "عَلَيْهَا تِسْعَةَ عَشَرَۗ ۝٣٠",
+            "latin": "‘alaihâ tis‘ata ‘asyar",
+            "terjemah": "Di atasnya ada sembilan belas (malaikat penjaga)."
+        },
+        {
+            "ayat": 31,
+            "arab": "وَمَا جَعَلْنَآ اَصْحٰبَ النَّارِ اِلَّا مَلٰۤىِٕكَةًۖ وَّمَا جَعَلْنَا عِدَّتَهُمْ اِلَّا فِتْنَةً لِّلَّذِيْنَ كَفَرُوْاۙ لِيَسْتَيْقِنَ الَّذِيْنَ اُوْتُوا الْكِتٰبَ وَيَزْدَادَ الَّذِيْنَ اٰمَنُوْٓا اِيْمَانًا وَّلَا يَرْتَابَ الَّذِيْنَ اُوْتُوا الْكِتٰبَ وَالْمُؤْمِنُوْنَۙ وَلِيَقُوْلَ الَّذِيْنَ فِيْ قُلُوْبِهِمْ مَّرَضٌ وَّالْكٰفِرُوْنَ مَاذَآ اَرَادَ اللّٰهُ بِهٰذَا مَثَلًاۗ كَذٰلِكَ يُضِلُّ اللّٰهُ مَنْ يَّشَاۤءُ وَيَهْدِيْ مَنْ يَّشَاۤءُۗ وَمَا يَعْلَمُ جُنُوْدَ رَبِّكَ اِلَّا هُوَۗ وَمَا هِيَ اِلَّا ذِكْرٰى لِلْبَشَرِࣖ ۝٣١",
+            "latin": "wa mâ ja‘alnâ ash-ḫâban-nâri illâ malâ'ikataw wa mâ ja‘alnâ ‘iddatahum illâ fitnatal lilladzîna kafarû liyastaiqinalladzîna ûtul-kitâba wa yazdâdalladzîna âmanû îmânaw wa lâ yartâballadzîna ûtul-kitâba wal-mu'minûna wa liyaqûlalladzîna fî qulûbihim maradluw wal-kâfirûna mâdzâ arâdallâhu bihâdzâ matsalâ, kadzâlika yudlillullâhu may yasyâ'u wa yahdî may yasyâ', wa mâ ya‘lamu junûda rabbika illâ huw, wa mâ hiya illâ dzikrâ lil-basyar",
+            "terjemah": "Kami tidak menjadikan para penjaga neraka, kecuali para malaikat dan Kami tidak menentukan bilangan mereka itu, kecuali sebagai cobaan bagi orang-orang kafir. (Yang demikian itu) agar orang-orang yang diberi kitab menjadi yakin, orang yang beriman bertambah imannya, orang-orang yang diberi kitab dan orang-orang mukmin itu tidak ragu-ragu, serta orang-orang yang di dalam hatinya ada penyakit dan orang-orang kafir (berkata,) “Apakah yang dikehendaki Allah dengan (bilangan) ini sebagai suatu perumpamaan?” Demikianlah Allah membiarkan sesat orang-orang yang Dia kehendaki (berdasarkan kecenderungan dan pilihan mereka sendiri) dan memberi petunjuk kepada orang-orang yang Dia kehendaki (berdasarkan kesiapan mereka untuk menerima petunjuk). Tidak ada yang mengetahui bala tentara Tuhanmu kecuali Dia sendiri. Ia (neraka Saqar itu) tidak lain hanyalah peringatan bagi manusia."
+        },
+        {
+            "ayat": 32,
+            "arab": "كَلَّا وَالْقَمَرِۙ ۝٣٢",
+            "latin": "kallâ wal-qamar",
+            "terjemah": "Sekali-kali tidak! Demi bulan,"
+        },
+        {
+            "ayat": 33,
+            "arab": "وَالَّيْلِ اِذْ اَدْبَرَۙ ۝٣٣",
+            "latin": "wal-laili idz adbar",
+            "terjemah": "demi malam ketika telah berlalu,"
+        },
+        {
+            "ayat": 34,
+            "arab": "وَالصُّبْحِ اِذَآ اَسْفَرَۙ ۝٣٤",
+            "latin": "wash-shub-ḫi idzâ asfar",
+            "terjemah": "dan demi subuh apabila mulai terang,"
+        },
+        {
+            "ayat": 35,
+            "arab": "اِنَّهَا لَاِحْدَى الْكُبَرِۙ ۝٣٥",
+            "latin": "innahâ la'iḫdal-kubar",
+            "terjemah": "sesungguhnya ia (neraka Saqar itu) benar-benar salah satu (bencana) yang sangat besar,"
+        },
+        {
+            "ayat": 36,
+            "arab": "نَذِيْرًا لِّلْبَشَرِۙ ۝٣٦",
+            "latin": "nadzîral lil-basyar",
+            "terjemah": "sebagai peringatan bagi manusia,"
+        },
+        {
+            "ayat": 37,
+            "arab": "لِمَنْ شَاۤءَ مِنْكُمْ اَنْ يَّتَقَدَّمَ اَوْ يَتَاَخَّرَۗ ۝٣٧",
+            "latin": "liman syâ'a mingkum ay yataqaddama au yata'akhkhar",
+            "terjemah": "(yaitu) bagi siapa di antara kamu yang ingin maju (meraih kebajikan) atau mundur (dengan berbuat maksiat)."
+        },
+        {
+            "ayat": 38,
+            "arab": "كُلُّ نَفْسٍ ۢ بِمَا كَسَبَتْ رَهِيْنَةٌۙ ۝٣٨",
+            "latin": "kullu nafsim bimâ kasabat rahînah",
+            "terjemah": "Setiap orang bertanggung jawab atas apa yang telah ia lakukan,"
+        },
+        {
+            "ayat": 39,
+            "arab": "اِلَّآ اَصْحٰبَ الْيَمِيْنِۛ ۝٣٩",
+            "latin": "illâ ash-ḫâbal-yamîn",
+            "terjemah": "kecuali golongan kanan,"
+        },
+        {
+            "ayat": 40,
+            "arab": "فِيْ جَنّٰتٍۛ يَتَسَاۤءَلُوْنَۙ ۝٤٠",
+            "latin": "fî jannâtiy yatasâ'alûn",
+            "terjemah": "berada di dalam surga yang mereka saling bertanya"
+        },
+        {
+            "ayat": 41,
+            "arab": "عَنِ الْمُجْرِمِيْنَۙ ۝٤١",
+            "latin": "‘anil-mujrimîn",
+            "terjemah": "tentang (keadaan) para pendurhaka,"
+        },
+        {
+            "ayat": 42,
+            "arab": "مَا سَلَكَكُمْ فِيْ سَقَرَ ۝٤٢",
+            "latin": "mâ salakakum fî saqar",
+            "terjemah": "“Apa yang menyebabkan kamu masuk ke dalam (neraka) Saqar?”"
+        },
+        {
+            "ayat": 43,
+            "arab": "قَالُوْا لَمْ نَكُ مِنَ الْمُصَلِّيْنَۙ ۝٤٣",
+            "latin": "qâlû lam naku minal-mushallîn",
+            "terjemah": "Mereka menjawab, “Dahulu kami tidak termasuk orang-orang yang melaksanakan salat"
+        },
+        {
+            "ayat": 44,
+            "arab": "وَلَمْ نَكُ نُطْعِمُ الْمِسْكِيْنَۙ ۝٤٤",
+            "latin": "wa lam naku nuth‘imul-miskîn",
+            "terjemah": "dan kami (juga) tidak memberi makan orang miskin."
+        },
+        {
+            "ayat": 45,
+            "arab": "وَكُنَّا نَخُوْضُ مَعَ الْخَاۤىِٕضِيْنَۙ ۝٤٥",
+            "latin": "wa kunnâ nakhûdlu ma‘al-khâ'idlîn",
+            "terjemah": "Bahkan, kami selalu berbincang (untuk tujuan yang batil) bersama para pembincang,"
+        },
+        {
+            "ayat": 46,
+            "arab": "وَكُنَّا نُكَذِّبُ بِيَوْمِ الدِّيْنِۙ ۝٤٦",
+            "latin": "wa kunnâ nukadzdzibu biyaumid-dîn",
+            "terjemah": "dan kami selalu mendustakan hari Pembalasan,"
+        },
+        {
+            "ayat": 47,
+            "arab": "حَتّٰىٓ اَتٰىنَا الْيَقِيْنُۗ ۝٤٧",
+            "latin": "ḫattâ atânal-yaqîn",
+            "terjemah": "hingga datang kepada kami kematian.”"
+        },
+        {
+            "ayat": 48,
+            "arab": "فَمَا تَنْفَعُهُمْ شَفَاعَةُ الشّٰفِعِيْنَۗ ۝٤٨",
+            "latin": "fa mâ tanfa‘uhum syafâ‘atusy-syâfi‘în",
+            "terjemah": "Maka, tidak berguna lagi bagi mereka syafaat (pertolongan) dari para pemberi syafaat."
+        },
+        {
+            "ayat": 49,
+            "arab": "فَمَا لَهُمْ عَنِ التَّذْكِرَةِ مُعْرِضِيْنَۙ ۝٤٩",
+            "latin": "fa mâ lahum ‘anit-tadzkirati mu‘ridlîn",
+            "terjemah": "Lalu, mengapa mereka (orang-orang kafir) berpaling dari peringatan (Allah)"
+        },
+        {
+            "ayat": 50,
+            "arab": "كَاَنَّهُمْ حُمُرٌ مُّسْتَنْفِرَةٌۙ ۝٥٠",
+            "latin": "ka'annahum ḫumurum mustanfirah",
+            "terjemah": "seakan-akan mereka keledai liar yang terkejut"
+        },
+        {
+            "ayat": 51,
+            "arab": "فَرَّتْ مِنْ قَسْوَرَةٍۗ ۝٥١",
+            "latin": "farrat ming qaswarah",
+            "terjemah": "lari dari singa."
+        },
+        {
+            "ayat": 52,
+            "arab": "بَلْ يُرِيْدُ كُلُّ امْرِئٍ مِّنْهُمْ اَنْ يُّؤْتٰى صُحُفًا مُّنَشَّرَةًۙ ۝٥٢",
+            "latin": "bal yurîdu kullumri'im min-hum ay yu'tâ shuḫufam munasysyarah",
+            "terjemah": "Bahkan, setiap orang dari mereka ingin diberi lembaran-lembaran (kitab) yang terbuka."
+        },
+        {
+            "ayat": 53,
+            "arab": "كَلَّاۗ بَلْ لَّا يَخَافُوْنَ الْاٰخِرَةَۗ ۝٥٣",
+            "latin": "kallâ, bal lâ yakhâfûnal-âkhirah",
+            "terjemah": "Sekali-kali tidak! Sebenarnya mereka tidak takut pada akhirat."
+        },
+        {
+            "ayat": 54,
+            "arab": "كَلَّآ اِنَّهٗ تَذْكِرَةٌۚ ۝٥٤",
+            "latin": "kallâ innahû tadzkirah",
+            "terjemah": "Sekali-kali tidak! Sesungguhnya (Al-Qur’an) itu adalah suatu peringatan."
+        },
+        {
+            "ayat": 55,
+            "arab": "فَمَنْ شَاۤءَ ذَكَرَهٗۗ ۝٥٥",
+            "latin": "fa man syâ'a dzakarah",
+            "terjemah": "Siapa yang berkehendak tentu mengambil pelajaran darinya."
+        },
+        {
+            "ayat": 56,
+            "arab": "وَمَا يَذْكُرُوْنَ اِلَّآ اَنْ يَّشَاۤءَ اللّٰهُۗ هُوَ اَهْلُ التَّقْوٰى وَاَهْلُ الْمَغْفِرَةِࣖ ۝٥٦",
+            "latin": "wa mâ yadzkurûna illâ ay yasyâ'allâh, huwa ahlut-taqwâ wa ahlul-maghfirah",
+            "terjemah": "Mereka tidak akan mengambil pelajaran darinya (Al-Qur’an), kecuali (jika) Allah menghendakinya. Dialah yang (kita) patut bertakwa kepada-Nya dan yang berhak memberi ampunan."
+        }
+    ]
+}

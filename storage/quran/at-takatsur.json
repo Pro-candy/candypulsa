@@ -1,0 +1,57 @@
+{
+    "nomor": 102,
+    "nama_latin": "At-Takatsur",
+    "arti": "Makkiyah",
+    "jumlah_ayat": 8,
+    "slug": "at-takatsur",
+    "ayat": [
+        {
+            "ayat": 1,
+            "arab": "اَلْهٰىكُمُ التَّكَاثُرُۙ ۝١",
+            "latin": "al-hâkumut-takâtsur",
+            "terjemah": "Berbangga-bangga dalam memperbanyak (dunia) telah melalaikanmu"
+        },
+        {
+            "ayat": 2,
+            "arab": "حَتّٰى زُرْتُمُ الْمَقَابِرَۗ ۝٢",
+            "latin": "ḫattâ zurtumul-maqâbir",
+            "terjemah": "sampai kamu masuk ke dalam kubur."
+        },
+        {
+            "ayat": 3,
+            "arab": "كَلَّا سَوْفَ تَعْلَمُوْنَۙ ۝٣",
+            "latin": "kallâ saufa ta‘lamûn",
+            "terjemah": "Sekali-kali tidak! Kelak kamu akan mengetahui (akibat perbuatanmu itu)."
+        },
+        {
+            "ayat": 4,
+            "arab": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُوْنَ ۝٤",
+            "latin": "tsumma kallâ saufa ta‘lamûn",
+            "terjemah": "Sekali-kali tidak (jangan melakukan itu)! Kelak kamu akan mengetahui (akibatnya)."
+        },
+        {
+            "ayat": 5,
+            "arab": "كَلَّا لَوْ تَعْلَمُوْنَ عِلْمَ الْيَقِيْنِۗ ۝٥",
+            "latin": "kallâ lau ta‘lamûna ‘ilmal-yaqîn",
+            "terjemah": "Sekali-kali tidak (jangan melakukan itu)! Sekiranya kamu mengetahui dengan pasti, (niscaya kamu tidak akan melakukannya)."
+        },
+        {
+            "ayat": 6,
+            "arab": "لَتَرَوُنَّ الْجَحِيْمَۙ ۝٦",
+            "latin": "latarawunnal-jaḫîm",
+            "terjemah": "Pasti kamu benar-benar akan melihat (neraka) Jahim."
+        },
+        {
+            "ayat": 7,
+            "arab": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ الْيَقِيْنِۙ ۝٧",
+            "latin": "tsumma latarawunnahâ ‘ainal-yaqîn",
+            "terjemah": "Kemudian, kamu pasti benar-benar akan melihatnya dengan ainulyakin."
+        },
+        {
+            "ayat": 8,
+            "arab": "ثُمَّ لَتُسْـَٔلُنَّ يَوْمَىِٕذٍ عَنِ النَّعِيْمِࣖ ۝٨",
+            "latin": "tsumma latus'alunna yauma'idzin ‘anin-na‘îm",
+            "terjemah": "Kemudian, kamu pasti benar-benar akan ditanya pada hari itu tentang kenikmatan (yang megah di dunia itu)."
+        }
+    ]
+}

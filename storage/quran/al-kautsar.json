@@ -1,0 +1,27 @@
+{
+    "nomor": 108,
+    "nama_latin": "Al-Kautsar",
+    "arti": "Makkiyah",
+    "jumlah_ayat": 3,
+    "slug": "al-kautsar",
+    "ayat": [
+        {
+            "ayat": 1,
+            "arab": "اِنَّآ اَعْطَيْنٰكَ الْكَوْثَرَۗ ۝١",
+            "latin": "innâ a‘thainâkal-kautsar",
+            "terjemah": "Sesungguhnya Kami telah memberimu (Nabi Muhammad) nikmat yang banyak."
+        },
+        {
+            "ayat": 2,
+            "arab": "فَصَلِّ لِرَبِّكَ وَانْحَرْۗ ۝٢",
+            "latin": "fa shalli lirabbika wan-ḫar",
+            "terjemah": "Maka, laksanakanlah salat karena Tuhanmu dan berkurbanlah!"
+        },
+        {
+            "ayat": 3,
+            "arab": "اِنَّ شَانِئَكَ هُوَ الْاَبْتَرُࣖ ۝٣",
+            "latin": "inna syâni'aka huwal-abtar",
+            "terjemah": "Sesungguhnya orang yang membencimu, dialah yang terputus (dari rahmat Allah)."
+        }
+    ]
+}

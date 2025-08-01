@@ -1,0 +1,57 @@
+{
+    "nomor": 95,
+    "nama_latin": "At-Tin",
+    "arti": "Makkiyah",
+    "jumlah_ayat": 8,
+    "slug": "at-tin",
+    "ayat": [
+        {
+            "ayat": 1,
+            "arab": "وَالتِّيْنِ وَالزَّيْتُوْنِۙ ۝١",
+            "latin": "wat-tîni waz-zaitûn",
+            "terjemah": "Demi (buah) tin dan (buah) zaitun,"
+        },
+        {
+            "ayat": 2,
+            "arab": "وَطُوْرِ سِيْنِيْنَۙ ۝٢",
+            "latin": "wa thûri sînîn",
+            "terjemah": "demi gunung Sinai,"
+        },
+        {
+            "ayat": 3,
+            "arab": "وَهٰذَا الْبَلَدِ الْاَمِيْنِۙ ۝٣",
+            "latin": "wa hâdzal-baladil-amîn",
+            "terjemah": "dan demi negeri (Makkah) yang aman ini,"
+        },
+        {
+            "ayat": 4,
+            "arab": "لَقَدْ خَلَقْنَا الْاِنْسَانَ فِيْٓ اَحْسَنِ تَقْوِيْمٍۖ ۝٤",
+            "latin": "laqad khalaqnal-insâna fî aḫsani taqwîm",
+            "terjemah": "sungguh, Kami benar-benar telah menciptakan manusia dalam bentuk yang sebaik-baiknya."
+        },
+        {
+            "ayat": 5,
+            "arab": "ثُمَّ رَدَدْنٰهُ اَسْفَلَ سٰفِلِيْنَۙ ۝٥",
+            "latin": "tsumma radadnâhu asfala sâfilîn",
+            "terjemah": "Kemudian, kami kembalikan dia ke tempat yang serendah-rendahnya,"
+        },
+        {
+            "ayat": 6,
+            "arab": "اِلَّا الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ فَلَهُمْ اَجْرٌ غَيْرُ مَمْنُوْنٍۗ ۝٦",
+            "latin": "illalladzîna âmanû wa ‘amilush-shâliḫâti fa lahum ajrun ghairu mamnûn",
+            "terjemah": "kecuali orang-orang yang beriman dan mengerjakan kebajikan. Maka, mereka akan mendapat pahala yang tidak putus-putusnya."
+        },
+        {
+            "ayat": 7,
+            "arab": "فَمَا يُكَذِّبُكَ بَعْدُ بِالدِّيْنِۗ ۝٧",
+            "latin": "fa mâ yukadzdzibuka ba‘du bid-dîn",
+            "terjemah": "Maka, apa alasanmu (wahai orang kafir) mendustakan hari Pembalasan setelah (adanya bukti-bukti) itu?"
+        },
+        {
+            "ayat": 8,
+            "arab": "اَلَيْسَ اللّٰهُ بِاَحْكَمِ الْحٰكِمِيْنَࣖ ۝٨",
+            "latin": "a laisallâhu bi'aḫkamil-ḫâkimîn",
+            "terjemah": "Bukankah Allah hakim yang paling adil?"
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "nomor": 90,
+    "nama_latin": "Al-Balad",
+    "arti": "Makkiyah",
+    "jumlah_ayat": 20,
+    "slug": "al-balad",
+    "ayat": [
+        {
+            "ayat": 1,
+            "arab": "لَآ اُقْسِمُ بِهٰذَا الْبَلَدِۙ ۝١",
+            "latin": "lâ uqsimu bihâdzal-balad",
+            "terjemah": "Aku bersumpah demi negeri ini (Makkah),"
+        },
+        {
+            "ayat": 2,
+            "arab": "وَاَنْتَ حِلٌّۢ بِهٰذَا الْبَلَدِۙ ۝٢",
+            "latin": "wa anta ḫillum bihâdzal-balad",
+            "terjemah": "sedangkan engkau (Nabi Muhammad) bertempat tinggal di negeri (Makkah) ini."
+        },
+        {
+            "ayat": 3,
+            "arab": "وَوَالِدٍ وَّمَا وَلَدَۙ ۝٣",
+            "latin": "wa wâlidiw wa mâ walad",
+            "terjemah": "(Aku juga bersumpah) demi bapak dan anaknya,"
+        },
+        {
+            "ayat": 4,
+            "arab": "لَقَدْ خَلَقْنَا الْاِنْسَانَ فِيْ كَبَدٍۗ ۝٤",
+            "latin": "laqad khalaqnal-insâna fî kabad",
+            "terjemah": "sungguh, Kami benar-benar telah menciptakan manusia dalam keadaan susah payah."
+        },
+        {
+            "ayat": 5,
+            "arab": "اَيَحْسَبُ اَنْ لَّنْ يَّقْدِرَ عَلَيْهِ اَحَدٌۘ ۝٥",
+            "latin": "a yaḫsabu al lay yaqdira ‘alaihi aḫad",
+            "terjemah": "Apakah dia (manusia) itu mengira bahwa tidak ada seorang pun yang berkuasa atasnya?"
+        },
+        {
+            "ayat": 6,
+            "arab": "يَقُوْلُ اَهْلَكْتُ مَالًا لُّبَدًاۗ ۝٦",
+            "latin": "yaqûlu ahlaktu mâlal lubadâ",
+            "terjemah": "Dia mengatakan, “Aku telah menghabiskan harta yang banyak.”"
+        },
+        {
+            "ayat": 7,
+            "arab": "اَيَحْسَبُ اَنْ لَّمْ يَرَهٗٓ اَحَدٌۗ ۝٧",
+            "latin": "a yaḫsabu al lam yarahû aḫad",
+            "terjemah": "Apakah dia mengira bahwa tidak ada seorang pun yang melihatnya?"
+        },
+        {
+            "ayat": 8,
+            "arab": "اَلَمْ نَجْعَلْ لَّهٗ عَيْنَيْنِۙ ۝٨",
+            "latin": "a lam naj‘al lahû ‘ainaîn",
+            "terjemah": "Bukankah Kami telah menjadikan untuknya sepasang mata,"
+        },
+        {
+            "ayat": 9,
+            "arab": "وَلِسَانًا وَّشَفَتَيْنِۙ ۝٩",
+            "latin": "wa lisânaw wa syafataîn",
+            "terjemah": "lidah, dan sepasang bibir,"
+        },
+        {
+            "ayat": 10,
+            "arab": "وَهَدَيْنٰهُ النَّجْدَيْنِۙ ۝١٠",
+            "latin": "wa hadainâhun-najdaîn",
+            "terjemah": "serta Kami juga telah menunjukkan kepadanya dua jalan (kebajikan dan kejahatan)?"
+        },
+        {
+            "ayat": 11,
+            "arab": "فَلَا اقْتَحَمَ الْعَقَبَةَۖ ۝١١",
+            "latin": "fa laqtaḫamal-‘aqabah",
+            "terjemah": "Maka, tidakkah sebaiknya dia menempuh jalan (kebajikan) yang mendaki dan sukar?"
+        },
+        {
+            "ayat": 12,
+            "arab": "وَمَآ اَدْرٰىكَ مَا الْعَقَبَةُۗ ۝١٢",
+            "latin": "wa mâ adrâka mal-‘aqabah",
+            "terjemah": "Tahukah kamu apakah jalan yang mendaki dan sukar itu?"
+        },
+        {
+            "ayat": 13,
+            "arab": "فَكُّ رَقَبَةٍۙ ۝١٣",
+            "latin": "fakku raqabah",
+            "terjemah": "(Itulah upaya) melepaskan perbudakan"
+        },
+        {
+            "ayat": 14,
+            "arab": "اَوْ اِطْعَامٌ فِيْ يَوْمٍ ذِيْ مَسْغَبَةٍۙ ۝١٤",
+            "latin": "au ith‘âmun fî yaumin dzî masghabah",
+            "terjemah": "atau memberi makan pada hari terjadi kelaparan"
+        },
+        {
+            "ayat": 15,
+            "arab": "يَّتِيْمًا ذَا مَقْرَبَةٍۙ ۝١٥",
+            "latin": "yatîman dzâ maqrabah",
+            "terjemah": "(kepada) anak yatim yang memiliki hubungan kekerabatan"
+        },
+        {
+            "ayat": 16,
+            "arab": "اَوْ مِسْكِيْنًا ذَا مَتْرَبَةٍۗ ۝١٦",
+            "latin": "au miskînan dzâ matrabah",
+            "terjemah": "atau orang miskin yang sangat membutuhkan."
+        },
+        {
+            "ayat": 17,
+            "arab": "ثُمَّ كَانَ مِنَ الَّذِيْنَ اٰمَنُوْا وَتَوَاصَوْا بِالصَّبْرِ وَتَوَاصَوْا بِالْمَرْحَمَةِۗ ۝١٧",
+            "latin": "tsumma kâna minalladzîna âmanû wa tawâshau bish-shabri wa tawâshau bil-mar-ḫamah",
+            "terjemah": "Kemudian, dia juga termasuk orang-orang yang beriman dan saling berpesan untuk bersabar serta saling berpesan untuk berkasih sayang."
+        },
+        {
+            "ayat": 18,
+            "arab": "اُولٰۤىِٕكَ اَصْحٰبُ الْمَيْمَنَةِۗ ۝١٨",
+            "latin": "ulâ'ika ash-ḫâbul-maimanah",
+            "terjemah": "Mereka itulah golongan kanan."
+        },
+        {
+            "ayat": 19,
+            "arab": "وَالَّذِيْنَ كَفَرُوْا بِاٰيٰتِنَا هُمْ اَصْحٰبُ الْمَشْئَمَةِۗ ۝١٩",
+            "latin": "walladzîna kafarû bi'âyâtinâ hum ash-ḫâbul-masy'amah",
+            "terjemah": "Adapun orang-orang yang kufur pada ayat-ayat Kami, merekalah golongan kiri."
+        },
+        {
+            "ayat": 20,
+            "arab": "عَلَيْهِمْ نَارٌ مُّؤْصَدَةٌࣖ ۝٢٠",
+            "latin": "‘alaihim nârum mu'shadah",
+            "terjemah": "Mereka berada dalam neraka yang ditutup rapat."
+        }
+    ]
+}

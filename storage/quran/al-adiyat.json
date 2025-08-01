@@ -1,0 +1,75 @@
+{
+    "nomor": 100,
+    "nama_latin": "Al-'Adiyat",
+    "arti": "Makkiyah",
+    "jumlah_ayat": 11,
+    "slug": "al-adiyat",
+    "ayat": [
+        {
+            "ayat": 1,
+            "arab": "وَالْعٰدِيٰتِ ضَبْحًاۙ ۝١",
+            "latin": "wal-‘âdiyâti dlab-ḫâ",
+            "terjemah": "Demi kuda-kuda perang yang berlari kencang terengah-engah,"
+        },
+        {
+            "ayat": 2,
+            "arab": "فَالْمُوْرِيٰتِ قَدْحًاۙ ۝٢",
+            "latin": "fal-mûriyâti qad-ḫâ",
+            "terjemah": "yang memercikkan bunga api (dengan entakan kakinya),"
+        },
+        {
+            "ayat": 3,
+            "arab": "فَالْمُغِيْرٰتِ صُبْحًاۙ ۝٣",
+            "latin": "fal-mughîrâti shub-ḫâ",
+            "terjemah": "yang menyerang (dengan tiba-tiba) pada waktu pagi"
+        },
+        {
+            "ayat": 4,
+            "arab": "فَاَثَرْنَ بِهٖ نَقْعًاۙ ۝٤",
+            "latin": "fa atsarna bihî naq‘â",
+            "terjemah": "sehingga menerbangkan debu,"
+        },
+        {
+            "ayat": 5,
+            "arab": "فَوَسَطْنَ بِهٖ جَمْعًاۙ ۝٥",
+            "latin": "fa wasathna bihî jam‘â",
+            "terjemah": "lalu menyerbu ke tengah-tengah kumpulan musuh,"
+        },
+        {
+            "ayat": 6,
+            "arab": "اِنَّ الْاِنْسَانَ لِرَبِّهٖ لَكَنُوْدٌۚ ۝٦",
+            "latin": "innal-insâna lirabbihî lakanûd",
+            "terjemah": "sesungguhnya manusia itu sangatlah ingkar kepada Tuhannya."
+        },
+        {
+            "ayat": 7,
+            "arab": "وَاِنَّهٗ عَلٰى ذٰلِكَ لَشَهِيْدٌۚ ۝٧",
+            "latin": "wa innahû ‘alâ dzâlika lasyahîd",
+            "terjemah": "Sesungguhnya dia benar-benar menjadi saksi atas hal itu (keingkarannya)."
+        },
+        {
+            "ayat": 8,
+            "arab": "وَاِنَّهٗ لِحُبِّ الْخَيْرِ لَشَدِيْدٌۗ ۝٨",
+            "latin": "wa innahû liḫubbil-khairi lasyadîd",
+            "terjemah": "Sesungguhnya cintanya pada harta benar-benar berlebihan."
+        },
+        {
+            "ayat": 9,
+            "arab": "۞ اَفَلَا يَعْلَمُ اِذَا بُعْثِرَ مَا فِى الْقُبُوْرِۙ ۝٩",
+            "latin": "a fa lâ ya‘lamu idzâ bu‘tsira mâ fil-qubûr",
+            "terjemah": "Maka, tidakkah dia mengetahui (apa yang akan dialaminya) apabila dikeluarkan apa yang ada di dalam kubur"
+        },
+        {
+            "ayat": 10,
+            "arab": "وَحُصِّلَ مَا فِى الصُّدُوْرِۙ ۝١٠",
+            "latin": "wa hushshila mâ fish-shudûr",
+            "terjemah": "dan ditampakkan apa yang tersimpan di dalam dada?"
+        },
+        {
+            "ayat": 11,
+            "arab": "اِنَّ رَبَّهُمْ بِهِمْ يَوْمَىِٕذٍ لَّخَبِيْرٌࣖ ۝١١",
+            "latin": "inna rabbahum bihim yauma'idzil lakhabîr",
+            "terjemah": "Sesungguhnya Tuhan mereka pada hari itu benar-benar Mahateliti terhadap (keadaan) mereka."
+        }
+    ]
+}

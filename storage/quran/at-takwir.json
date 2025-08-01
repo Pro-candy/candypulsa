@@ -1,0 +1,183 @@
+{
+    "nomor": 81,
+    "nama_latin": "At-Takwir",
+    "arti": "Makkiyah",
+    "jumlah_ayat": 29,
+    "slug": "at-takwir",
+    "ayat": [
+        {
+            "ayat": 1,
+            "arab": "اِذَا الشَّمْسُ كُوِّرَتْۖ ۝١",
+            "latin": "idzasy-syamsu kuwwirat",
+            "terjemah": "Apabila matahari digulung,"
+        },
+        {
+            "ayat": 2,
+            "arab": "وَاِذَا النُّجُوْمُ انْكَدَرَتْۖ ۝٢",
+            "latin": "wa idzan-nujûmungkadarat",
+            "terjemah": "apabila bintang-bintang berjatuhan,"
+        },
+        {
+            "ayat": 3,
+            "arab": "وَاِذَا الْجِبَالُ سُيِّرَتْۖ ۝٣",
+            "latin": "wa idzal-jibâlu suyyirat",
+            "terjemah": "apabila gunung-gunung dihancurkan,"
+        },
+        {
+            "ayat": 4,
+            "arab": "وَاِذَا الْعِشَارُ عُطِّلَتْۖ ۝٤",
+            "latin": "wa idzal-‘isyâru ‘uththilat",
+            "terjemah": "apabila unta-unta yang bunting ditinggalkan (tidak terurus),"
+        },
+        {
+            "ayat": 5,
+            "arab": "وَاِذَا الْوُحُوْشُ حُشِرَتْۖ ۝٥",
+            "latin": "wa idzal-wuḫûsyu ḫusyirat",
+            "terjemah": "apabila binatang-binatang liar dikumpulkan,"
+        },
+        {
+            "ayat": 6,
+            "arab": "وَاِذَا الْبِحَارُ سُجِّرَتْۖ ۝٦",
+            "latin": "wa idzal-biḫâru sujjirat",
+            "terjemah": "apabila lautan dipanaskan,"
+        },
+        {
+            "ayat": 7,
+            "arab": "وَاِذَا النُّفُوْسُ زُوِّجَتْۖ ۝٧",
+            "latin": "wa idzan-nufûsu zuwwijat",
+            "terjemah": "apabila roh-roh dipertemukan (dengan tubuh),"
+        },
+        {
+            "ayat": 8,
+            "arab": "وَاِذَا الْمَوْءٗدَةُ سُىِٕلَتْۖ ۝٨",
+            "latin": "wa idzal-mau'ûdatu su'ilat",
+            "terjemah": "apabila bayi-bayi perempuan yang dikubur hidup-hidup ditanya,"
+        },
+        {
+            "ayat": 9,
+            "arab": "بِاَيِّ ذَنْۢبٍ قُتِلَتْۚ ۝٩",
+            "latin": "bi'ayyi dzambing qutilat",
+            "terjemah": "“Karena dosa apa dia dibunuh,”"
+        },
+        {
+            "ayat": 10,
+            "arab": "وَاِذَا الصُّحُفُ نُشِرَتْۖ ۝١٠",
+            "latin": "wa idzash-shuḫufu nusyirat",
+            "terjemah": "apabila lembaran-lembaran (catatan amal) telah dibuka lebar-lebar,"
+        },
+        {
+            "ayat": 11,
+            "arab": "وَاِذَا السَّمَاۤءُ كُشِطَتْۖ ۝١١",
+            "latin": "wa idzas-samâ'u kusyithat",
+            "terjemah": "apabila langit dilenyapkan,"
+        },
+        {
+            "ayat": 12,
+            "arab": "وَاِذَا الْجَحِيْمُ سُعِّرَتْۖ ۝١٢",
+            "latin": "wa idzal-jaḫîmu su‘‘irat",
+            "terjemah": "apabila (neraka) Jahim dinyalakan,"
+        },
+        {
+            "ayat": 13,
+            "arab": "وَاِذَا الْجَنَّةُ اُزْلِفَتْۖ ۝١٣",
+            "latin": "wa idzal-jannatu uzlifat",
+            "terjemah": "dan apabila surga didekatkan,"
+        },
+        {
+            "ayat": 14,
+            "arab": "عَلِمَتْ نَفْسٌ مَّآ اَحْضَرَتْۗ ۝١٤",
+            "latin": "‘alimat nafsum mâ aḫdlarat",
+            "terjemah": "setiap jiwa akan mengetahui apa yang telah dikerjakannya."
+        },
+        {
+            "ayat": 15,
+            "arab": "فَلَآ اُقْسِمُ بِالْخُنَّسِۙ ۝١٥",
+            "latin": "fa lâ uqsimu bil-khunnas",
+            "terjemah": "Aku bersumpah demi bintang-bintang"
+        },
+        {
+            "ayat": 16,
+            "arab": "الْجَوَارِ الْكُنَّسِۙ ۝١٦",
+            "latin": "al-jawâril-kunnas",
+            "terjemah": "yang beredar lagi terbenam,"
+        },
+        {
+            "ayat": 17,
+            "arab": "وَالَّيْلِ اِذَا عَسْعَسَۙ ۝١٧",
+            "latin": "wal-laili idzâ ‘as‘as",
+            "terjemah": "demi malam apabila telah larut,"
+        },
+        {
+            "ayat": 18,
+            "arab": "وَالصُّبْحِ اِذَا تَنَفَّسَۙ ۝١٨",
+            "latin": "wash-shub-ḫi idzâ tanaffas",
+            "terjemah": "demi subuh apabila (fajar) telah menyingsing,"
+        },
+        {
+            "ayat": 19,
+            "arab": "اِنَّهٗ لَقَوْلُ رَسُوْلٍ كَرِيْمٍۙ ۝١٩",
+            "latin": "innahû laqaulu rasûling karîm",
+            "terjemah": "sesungguhnya (Al-Qur’an) itu benar-benar firman (Allah yang dibawa oleh) utusan yang mulia (Jibril)"
+        },
+        {
+            "ayat": 20,
+            "arab": "ذِيْ قُوَّةٍ عِنْدَ ذِى الْعَرْشِ مَكِيْنٍۙ ۝٢٠",
+            "latin": "dzî quwwatin ‘inda dzil-‘arsyi makîn",
+            "terjemah": "yang memiliki kekuatan dan kedudukan tinggi di sisi (Allah) yang memiliki ʻArasy,"
+        },
+        {
+            "ayat": 21,
+            "arab": "مُّطَاعٍ ثَمَّ اَمِيْنٍۗ ۝٢١",
+            "latin": "muthâ‘in tsamma amîn",
+            "terjemah": "yang di sana (Jibril) ditaati lagi dipercaya."
+        },
+        {
+            "ayat": 22,
+            "arab": "وَمَا صَاحِبُكُمْ بِمَجْنُوْنٍۚ ۝٢٢",
+            "latin": "wa mâ shâḫibukum bimajnûn",
+            "terjemah": "Temanmu (Nabi Muhammad) itu bukanlah orang gila."
+        },
+        {
+            "ayat": 23,
+            "arab": "وَلَقَدْ رَاٰهُ بِالْاُفُقِ الْمُبِيْنِۚ ۝٢٣",
+            "latin": "wa laqad ra'âhu bil-ufuqil-mubîn",
+            "terjemah": "Sungguh, dia (Nabi Muhammad) benar-benar telah melihatnya (Jibril) di ufuk yang terang."
+        },
+        {
+            "ayat": 24,
+            "arab": "وَمَا هُوَ عَلَى الْغَيْبِ بِضَنِيْنٍۚ ۝٢٤",
+            "latin": "wa mâ huwa ‘alal-ghaibi bidlanîn",
+            "terjemah": "Dia (Nabi Muhammad) bukanlah seorang yang kikir (enggan) untuk menerangkan yang gaib."
+        },
+        {
+            "ayat": 25,
+            "arab": "وَمَا هُوَ بِقَوْلِ شَيْطٰنٍ رَّجِيْمٍۚ ۝٢٥",
+            "latin": "wa mâ huwa biqauli syaithânir rajîm",
+            "terjemah": "(Al-Qur’an) itu bukanlah perkataan setan yang terkutuk."
+        },
+        {
+            "ayat": 26,
+            "arab": "فَاَيْنَ تَذْهَبُوْنَۗ ۝٢٦",
+            "latin": "fa aina tadz-habûn",
+            "terjemah": "Maka, ke manakah kamu akan pergi?"
+        },
+        {
+            "ayat": 27,
+            "arab": "اِنْ هُوَ اِلَّا ذِكْرٌ لِّلْعٰلَمِيْنَۙ ۝٢٧",
+            "latin": "in huwa illâ dzikrul lil-‘âlamîn",
+            "terjemah": "(Al-Qur’an) itu tidak lain, kecuali peringatan bagi semesta alam,"
+        },
+        {
+            "ayat": 28,
+            "arab": "لِمَنْ شَاۤءَ مِنْكُمْ اَنْ يَّسْتَقِيْمَۗ ۝٢٨",
+            "latin": "liman syâ'a mingkum ay yastaqîm",
+            "terjemah": "(yaitu) bagi siapa di antaramu yang hendak menempuh jalan yang lurus."
+        },
+        {
+            "ayat": 29,
+            "arab": "وَمَا تَشَاۤءُوْنَ اِلَّآ اَنْ يَّشَاۤءَ اللّٰهُ رَبُّ الْعٰلَمِيْنَࣖ ۝٢٩",
+            "latin": "wa mâ tasyâ'ûna illâ ay yasyâ'allâhu rabbul-‘âlamîn",
+            "terjemah": "Kamu tidak dapat berkehendak, kecuali apabila dikehendaki Allah, Tuhan semesta alam."
+        }
+    ]
+}

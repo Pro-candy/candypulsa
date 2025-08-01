@@ -1,0 +1,39 @@
+{
+    "nomor": 111,
+    "nama_latin": "Al-Lahab",
+    "arti": "Makkiyah",
+    "jumlah_ayat": 5,
+    "slug": "al-lahab",
+    "ayat": [
+        {
+            "ayat": 1,
+            "arab": "تَبَّتْ يَدَآ اَبِيْ لَهَبٍ وَّتَبَّۗ ۝١",
+            "latin": "tabbat yadâ abî lahabiw wa tabb",
+            "terjemah": "Binasalah kedua tangan Abu Lahab dan benar-benar binasa dia."
+        },
+        {
+            "ayat": 2,
+            "arab": "مَآ اَغْنٰى عَنْهُ مَالُهٗ وَمَا كَسَبَۗ ۝٢",
+            "latin": "mâ aghnâ ‘an-hu mâluhû wa mâ kasab",
+            "terjemah": "Tidaklah berguna baginya hartanya dan apa yang dia usahakan."
+        },
+        {
+            "ayat": 3,
+            "arab": "سَيَصْلٰى نَارًا ذَاتَ لَهَبٍۙ ۝٣",
+            "latin": "sayashlâ nâran dzâta lahab",
+            "terjemah": "Kelak dia akan memasuki api yang bergejolak (neraka),"
+        },
+        {
+            "ayat": 4,
+            "arab": "وَّامْرَاَتُهٗۗ حَمَّالَةَ الْحَطَبِۚ ۝٤",
+            "latin": "wamra'atuh, ḫammâlatal-ḫathab",
+            "terjemah": "(begitu pula) istrinya, pembawa kayu bakar (penyebar fitnah)."
+        },
+        {
+            "ayat": 5,
+            "arab": "فِيْ جِيْدِهَا حَبْلٌ مِّنْ مَّسَدٍࣖ ۝٥",
+            "latin": "fî jîdihâ ḫablum mim masad",
+            "terjemah": "Di lehernya ada tali dari sabut yang dipintal."
+        }
+    ]
+}

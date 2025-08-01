@@ -1,0 +1,111 @@
+{
+    "nomor": 86,
+    "nama_latin": "At-Thariq",
+    "arti": "Makkiyah",
+    "jumlah_ayat": 17,
+    "slug": "at-thariq",
+    "ayat": [
+        {
+            "ayat": 1,
+            "arab": "وَالسَّمَاۤءِ وَالطَّارِقِۙ ۝١",
+            "latin": "was-samâ'i wath-thâriq",
+            "terjemah": "Demi langit dan yang datang pada malam hari."
+        },
+        {
+            "ayat": 2,
+            "arab": "وَمَآ اَدْرٰىكَ مَا الطَّارِقُۙ ۝٢",
+            "latin": "wa mâ adrâka math-thâriq",
+            "terjemah": "Tahukah kamu apakah yang datang pada malam hari itu?"
+        },
+        {
+            "ayat": 3,
+            "arab": "النَّجْمُ الثَّاقِبُۙ ۝٣",
+            "latin": "an-najmuts-tsâqib",
+            "terjemah": "(Itulah) bintang yang bersinar tajam."
+        },
+        {
+            "ayat": 4,
+            "arab": "اِنْ كُلُّ نَفْسٍ لَّمَّا عَلَيْهَا حَافِظٌۗ ۝٤",
+            "latin": "ing kullu nafsil lammâ ‘alaihâ ḫâfidh",
+            "terjemah": "Setiap orang pasti ada penjaganya."
+        },
+        {
+            "ayat": 5,
+            "arab": "فَلْيَنْظُرِ الْاِنْسَانُ مِمَّ خُلِقَ ۝٥",
+            "latin": "falyandhuril-insânu mimma khuliq",
+            "terjemah": "Hendaklah manusia memperhatikan dari apa dia diciptakan."
+        },
+        {
+            "ayat": 6,
+            "arab": "خُلِقَ مِنْ مَّاۤءٍ دَافِقٍۙ ۝٦",
+            "latin": "khuliqa mim mâ'in dâfiq",
+            "terjemah": "Dia diciptakan dari air (mani) yang memancar,"
+        },
+        {
+            "ayat": 7,
+            "arab": "يَّخْرُجُ مِنْۢ بَيْنِ الصُّلْبِ وَالتَّرَاۤىِٕبِۗ ۝٧",
+            "latin": "yakhruju mim bainish-shulbi wat-tarâ'ib",
+            "terjemah": "yang keluar dari antara tulang sulbi (punggung) dan tulang dada."
+        },
+        {
+            "ayat": 8,
+            "arab": "اِنَّهٗ عَلٰى رَجْعِهٖ لَقَادِرٌۗ ۝٨",
+            "latin": "innahû ‘alâ raj‘ihî laqâdir",
+            "terjemah": "Sesungguhnya Dia (Allah) benar-benar kuasa untuk mengembalikannya (hidup setelah mati)"
+        },
+        {
+            "ayat": 9,
+            "arab": "يَوْمَ تُبْلَى السَّرَاۤىِٕرُۙ ۝٩",
+            "latin": "yauma tublas-sarâ'ir",
+            "terjemah": "pada hari ditampakkan segala rahasia."
+        },
+        {
+            "ayat": 10,
+            "arab": "فَمَا لَهٗ مِنْ قُوَّةٍ وَّلَا نَاصِرٍۗ ۝١٠",
+            "latin": "fa mâ lahû ming quwwatiw wa lâ nâshir",
+            "terjemah": "Maka, baginya (manusia) tidak ada lagi kekuatan dan tidak (pula) ada penolong."
+        },
+        {
+            "ayat": 11,
+            "arab": "وَالسَّمَاۤءِ ذَاتِ الرَّجْعِۙ ۝١١",
+            "latin": "was-samâ'i dzâtir-raj‘",
+            "terjemah": "Demi langit yang mengandung hujan"
+        },
+        {
+            "ayat": 12,
+            "arab": "وَالْاَرْضِ ذَاتِ الصَّدْعِۙ ۝١٢",
+            "latin": "wal-ardli dzâtish-shad‘",
+            "terjemah": "dan bumi yang memiliki rekahan (tempat tumbuhnya pepohonan),"
+        },
+        {
+            "ayat": 13,
+            "arab": "اِنَّهٗ لَقَوْلٌ فَصْلٌۙ ۝١٣",
+            "latin": "innahû laqaulun fashl",
+            "terjemah": "sesungguhnya (Al-Qur’an) itu benar-benar firman pemisah (antara yang hak dan yang batil)"
+        },
+        {
+            "ayat": 14,
+            "arab": "وَّمَا هُوَ بِالْهَزْلِۗ ۝١٤",
+            "latin": "wa mâ huwa bil-hazl",
+            "terjemah": "dan ia (Al-Qur’an) sama sekali bukan perkataan senda gurau."
+        },
+        {
+            "ayat": 15,
+            "arab": "اِنَّهُمْ يَكِيْدُوْنَ كَيْدًاۙ ۝١٥",
+            "latin": "innahum yakîdûna kaidâ",
+            "terjemah": "Sesungguhnya mereka (orang kafir) melakukan tipu daya."
+        },
+        {
+            "ayat": 16,
+            "arab": "وَّاَكِيْدُ كَيْدًاۖ ۝١٦",
+            "latin": "wa akîdu kaidâ",
+            "terjemah": "Aku pun membalasnya dengan tipu daya."
+        },
+        {
+            "ayat": 17,
+            "arab": "فَمَهِّلِ الْكٰفِرِيْنَ اَمْهِلْهُمْ رُوَيْدًاࣖ ۝١٧",
+            "latin": "fa mahhilil-kâfirîna am-hil-hum ruwaidâ",
+            "terjemah": "Maka, tangguhkanlah orang-orang kafir itu. Biarkanlah mereka sejenak (bersenang-senang)."
+        }
+    ]
+}

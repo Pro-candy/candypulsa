@@ -1,0 +1,75 @@
+{
+    "nomor": 93,
+    "nama_latin": "Adh-Dhuha",
+    "arti": "Makkiyah",
+    "jumlah_ayat": 11,
+    "slug": "adh-dhuha",
+    "ayat": [
+        {
+            "ayat": 1,
+            "arab": "وَالضُّحٰىۙ ۝١",
+            "latin": "wadl-dluḫâ",
+            "terjemah": "Demi waktu duha"
+        },
+        {
+            "ayat": 2,
+            "arab": "وَالَّيْلِ اِذَا سَجٰىۙ ۝٢",
+            "latin": "wal-laili idzâ sajâ",
+            "terjemah": "dan demi waktu malam apabila telah sunyi,"
+        },
+        {
+            "ayat": 3,
+            "arab": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلٰىۗ ۝٣",
+            "latin": "mâ wadda‘aka rabbuka wa mâ qalâ",
+            "terjemah": "Tuhanmu (Nabi Muhammad) tidak meninggalkan dan tidak (pula) membencimu."
+        },
+        {
+            "ayat": 4,
+            "arab": "وَلَلْاٰخِرَةُ خَيْرٌ لَّكَ مِنَ الْاُوْلٰىۗ ۝٤",
+            "latin": "wa lal-âkhiratu khairul laka minal-ûlâ",
+            "terjemah": "Sungguh, akhirat itu lebih baik bagimu daripada yang permulaan (dunia)."
+        },
+        {
+            "ayat": 5,
+            "arab": "وَلَسَوْفَ يُعْطِيْكَ رَبُّكَ فَتَرْضٰىۗ ۝٥",
+            "latin": "wa lasaufa yu‘thîka rabbuka fa tardlâ",
+            "terjemah": "Sungguh, kelak (di akhirat nanti) Tuhanmu pasti memberikan karunia-Nya kepadamu sehingga engkau rida."
+        },
+        {
+            "ayat": 6,
+            "arab": "اَلَمْ يَجِدْكَ يَتِيْمًا فَاٰوٰىۖ ۝٦",
+            "latin": "a lam yajidka yatîman fa âwâ",
+            "terjemah": "Bukankah Dia mendapatimu sebagai seorang yatim, lalu Dia melindungi(-mu);"
+        },
+        {
+            "ayat": 7,
+            "arab": "وَوَجَدَكَ ضَاۤلًّا فَهَدٰىۖ ۝٧",
+            "latin": "wa wajadaka dlâllan fa hadâ",
+            "terjemah": "mendapatimu sebagai seorang yang tidak tahu (tentang syariat), lalu Dia memberimu petunjuk (wahyu);"
+        },
+        {
+            "ayat": 8,
+            "arab": "وَوَجَدَكَ عَاۤىِٕلًا فَاَغْنٰىۗ ۝٨",
+            "latin": "wa wajadaka ‘â'ilan fa aghnâ",
+            "terjemah": "dan mendapatimu sebagai seorang yang fakir, lalu Dia memberimu kecukupan?"
+        },
+        {
+            "ayat": 9,
+            "arab": "فَاَمَّا الْيَتِيْمَ فَلَا تَقْهَرْۗ ۝٩",
+            "latin": "fa ammal-yatîma fa lâ taq-har",
+            "terjemah": "Terhadap anak yatim, janganlah engkau berlaku sewenang-wenang."
+        },
+        {
+            "ayat": 10,
+            "arab": "وَاَمَّا السَّاۤىِٕلَ فَلَا تَنْهَرْ ۝١٠",
+            "latin": "wa ammas-sâ'ila fa lâ tan-har",
+            "terjemah": "Terhadap orang yang meminta-minta, janganlah engkau menghardik."
+        },
+        {
+            "ayat": 11,
+            "arab": "وَاَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْࣖ ۝١١",
+            "latin": "wa ammâ bini‘mati rabbika fa ḫaddits",
+            "terjemah": "Terhadap nikmat Tuhanmu, nyatakanlah (dengan bersyukur)."
+        }
+    ]
+}

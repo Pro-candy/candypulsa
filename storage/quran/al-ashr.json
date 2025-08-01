@@ -1,0 +1,27 @@
+{
+    "nomor": 103,
+    "nama_latin": "Al-'Ashr",
+    "arti": "Makkiyah",
+    "jumlah_ayat": 3,
+    "slug": "al-ashr",
+    "ayat": [
+        {
+            "ayat": 1,
+            "arab": "وَالْعَصْرِۙ ۝١",
+            "latin": "wal-‘ashr",
+            "terjemah": "Demi masa,"
+        },
+        {
+            "ayat": 2,
+            "arab": "اِنَّ الْاِنْسَانَ لَفِيْ خُسْرٍۙ ۝٢",
+            "latin": "innal-insâna lafî khusr",
+            "terjemah": "sesungguhnya manusia benar-benar berada dalam kerugian,"
+        },
+        {
+            "ayat": 3,
+            "arab": "اِلَّا الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ وَتَوَاصَوْا بِالْحَقِّ ەۙ وَتَوَاصَوْا بِالصَّبْرِࣖ ۝٣",
+            "latin": "illalladzîna âmanû wa ‘amilush-shâliḫâti wa tawâshau bil-ḫaqqi wa tawâshau bish-shabr",
+            "terjemah": "kecuali orang-orang yang beriman dan beramal saleh serta saling menasihati untuk kebenaran dan kesabaran."
+        }
+    ]
+}

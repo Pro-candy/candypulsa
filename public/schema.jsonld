@@ -1,0 +1,13 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Store",
+  "name": "Candy Pulsa",
+  "description": "Candy Pulsa adalah platform untuk beli pulsa, paket data, token listrik, dan voucher game murah. Dilengkapi juga dengan sistem kasir dan POS untuk toko kecil dan UMKM.",
+  "url": "https://www.candypulsa.com",
+  "image": "https://www.candypulsa.com/assets/img/og-image.jpg",
+  "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "ID"
+  },
+  "openingHours": "Mo-Su 00:00-23:59"
+}

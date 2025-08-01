@@ -1,0 +1,57 @@
+{
+    "nomor": 94,
+    "nama_latin": "Al-Insyirah",
+    "arti": "Makkiyah",
+    "jumlah_ayat": 8,
+    "slug": "al-insyirah",
+    "ayat": [
+        {
+            "ayat": 1,
+            "arab": "اَلَمْ نَشْرَحْ لَكَ صَدْرَكَۙ ۝١",
+            "latin": "a lam nasyraḫ laka shadrak",
+            "terjemah": "Bukankah Kami telah melapangkan dadamu (Nabi Muhammad),"
+        },
+        {
+            "ayat": 2,
+            "arab": "وَوَضَعْنَا عَنْكَ وِزْرَكَۙ ۝٢",
+            "latin": "wa wadla‘nâ ‘angka wizrak",
+            "terjemah": "meringankan beban (tugas-tugas kenabian) darimu"
+        },
+        {
+            "ayat": 3,
+            "arab": "الَّذِيْٓ اَنْقَضَ ظَهْرَكَۙ ۝٣",
+            "latin": "alladzî angqadla dhahrak",
+            "terjemah": "yang memberatkan punggungmu,"
+        },
+        {
+            "ayat": 4,
+            "arab": "وَرَفَعْنَا لَكَ ذِكْرَكَۗ ۝٤",
+            "latin": "wa rafa‘nâ laka dzikrak",
+            "terjemah": "dan meninggikan (derajat)-mu (dengan selalu) menyebut-nyebut (nama)-mu?"
+        },
+        {
+            "ayat": 5,
+            "arab": "فَاِنَّ مَعَ الْعُسْرِ يُسْرًاۙ ۝٥",
+            "latin": "fa inna ma‘al-‘usri yusrâ",
+            "terjemah": "Maka, sesungguhnya beserta kesulitan ada kemudahan."
+        },
+        {
+            "ayat": 6,
+            "arab": "اِنَّ مَعَ الْعُسْرِ يُسْرًاۗ ۝٦",
+            "latin": "inna ma‘al-‘usri yusrâ",
+            "terjemah": "Sesungguhnya beserta kesulitan ada kemudahan."
+        },
+        {
+            "ayat": 7,
+            "arab": "فَاِذَا فَرَغْتَ فَانْصَبْۙ ۝٧",
+            "latin": "fa idzâ faraghta fanshab",
+            "terjemah": "Apabila engkau telah selesai (dengan suatu kebajikan), teruslah bekerja keras (untuk kebajikan yang lain)"
+        },
+        {
+            "ayat": 8,
+            "arab": "وَاِلٰى رَبِّكَ فَارْغَبْࣖ ۝٨",
+            "latin": "wa ilâ rabbika farghab",
+            "terjemah": "dan hanya kepada Tuhanmu berharaplah!"
+        }
+    ]
+}

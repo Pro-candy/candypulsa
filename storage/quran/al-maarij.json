@@ -1,0 +1,273 @@
+{
+    "nomor": 70,
+    "nama_latin": "Al-Ma'arij",
+    "arti": "Makkiyah",
+    "jumlah_ayat": 44,
+    "slug": "al-maarij",
+    "ayat": [
+        {
+            "ayat": 1,
+            "arab": "سَاَلَ سَاۤىِٕلٌۢ بِعَذَابٍ وَّاقِعٍۙ ۝١",
+            "latin": "sa'ala sâ'ilum bi‘adzâbiw wâqi‘",
+            "terjemah": "Seseorang (dengan nada mengejek) meminta (didatangkan) azab yang pasti akan terjadi"
+        },
+        {
+            "ayat": 2,
+            "arab": "لِّلْكٰفِرِيْنَ لَيْسَ لَهٗ دَافِعٌۙ ۝٢",
+            "latin": "lil-kâfirîna laisa lahû dâfi‘",
+            "terjemah": "bagi orang-orang kafir. Tidak seorang pun yang dapat menolaknya (azab)"
+        },
+        {
+            "ayat": 3,
+            "arab": "مِّنَ اللّٰهِ ذِى الْمَعَارِجِۗ ۝٣",
+            "latin": "minallâhi dzil-ma‘ârij",
+            "terjemah": "dari Allah, Pemilik tempat-tempat (untuk) naik."
+        },
+        {
+            "ayat": 4,
+            "arab": "تَعْرُجُ الْمَلٰۤىِٕكَةُ وَالرُّوْحُ اِلَيْهِ فِيْ يَوْمٍ كَانَ مِقْدَارُهٗ خَمْسِيْنَ اَلْفَ سَنَةٍۚ ۝٤",
+            "latin": "ta‘rujul-malâ'ikatu war-rûḫu ilaihi fî yauming kâna miqdâruhû khamsîna alfa sanah",
+            "terjemah": "Para malaikat dan Rūḥ (Jibril) naik (menghadap) kepada-Nya dalam sehari yang kadarnya lima puluh ribu tahun."
+        },
+        {
+            "ayat": 5,
+            "arab": "فَاصْبِرْ صَبْرًا جَمِيْلًا ۝٥",
+            "latin": "fashbir shabran jamîlâ",
+            "terjemah": "Maka, bersabarlah dengan kesabaran yang baik."
+        },
+        {
+            "ayat": 6,
+            "arab": "اِنَّهُمْ يَرَوْنَهٗ بَعِيْدًاۙ ۝٦",
+            "latin": "innahum yaraunahû ba‘îdâ",
+            "terjemah": "Sesungguhnya mereka memandangnya (siksaan itu) jauh (mustahil terjadi),"
+        },
+        {
+            "ayat": 7,
+            "arab": "وَّنَرٰىهُ قَرِيْبًاۗ ۝٧",
+            "latin": "wa narâhu qarîbâ",
+            "terjemah": "sedangkan Kami memandangnya dekat (pasti terjadi)."
+        },
+        {
+            "ayat": 8,
+            "arab": "يَوْمَ تَكُوْنُ السَّمَاۤءُ كَالْمُهْلِۙ ۝٨",
+            "latin": "yauma takûnus-samâ'u kal-muhl",
+            "terjemah": "(Siksaan itu datang) pada hari (ketika) langit menjadi seperti luluhan perak,"
+        },
+        {
+            "ayat": 9,
+            "arab": "وَتَكُوْنُ الْجِبَالُ كَالْعِهْنِۙ ۝٩",
+            "latin": "wa takûnul-jibâlu kal-‘ihn",
+            "terjemah": "gunung-gunung menjadi seperti bulu (yang beterbangan),"
+        },
+        {
+            "ayat": 10,
+            "arab": "وَلَا يَسْـَٔلُ حَمِيْمٌ حَمِيْمًاۚ ۝١٠",
+            "latin": "wa lâ yas'alu ḫamîmun ḫamîmâ",
+            "terjemah": "dan tidak ada seorang pun teman setia yang menanyakan temannya,"
+        },
+        {
+            "ayat": 11,
+            "arab": "يُبَصَّرُوْنَهُمْۗ يَوَدُّ الْمُجْرِمُ لَوْ يَفْتَدِيْ مِنْ عَذَابِ يَوْمِىِٕذٍ ۢ بِبَنِيْهِۙ ۝١١",
+            "latin": "yubashsharûnahum, yawaddul-mujrimu lau yaftadî min ‘adzâbi yaumi'idzim bibanîh",
+            "terjemah": "(padahal) mereka saling melihat. Orang yang berbuat durhaka itu menginginkan sekiranya dia dapat menebus (dirinya) dari azab hari itu dengan anak-anaknya,"
+        },
+        {
+            "ayat": 12,
+            "arab": "وَصَاحِبَتِهٖ وَاَخِيْهِۙ ۝١٢",
+            "latin": "wa shâḫibatihî wa akhîh",
+            "terjemah": "istrinya, saudaranya,"
+        },
+        {
+            "ayat": 13,
+            "arab": "وَفَصِيْلَتِهِ الَّتِيْ تُـــْٔـوِيْهِۙ ۝١٣",
+            "latin": "wa fashîlatihillatî tu'wîh",
+            "terjemah": "keluarga yang melindunginya (di dunia),"
+        },
+        {
+            "ayat": 14,
+            "arab": "وَمَنْ فِى الْاَرْضِ جَمِيْعًاۙ ثُمَّ يُنْجِيْهِۙ ۝١٤",
+            "latin": "wa man fil-ardli jamî‘an tsumma yunjîh",
+            "terjemah": "dan seluruh orang di bumi. Kemudian, (dia mengharapkan) tebusan itu dapat menyelamatkannya."
+        },
+        {
+            "ayat": 15,
+            "arab": "كَلَّاۗ اِنَّهَا لَظٰىۙ ۝١٥",
+            "latin": "kallâ, innahâ ladhâ",
+            "terjemah": "Sekali-kali tidak! Sesungguhnya ia (neraka) itu adalah api yang bergejolak"
+        },
+        {
+            "ayat": 16,
+            "arab": "نَزَّاعَةً لِّلشَّوٰىۚ ۝١٦",
+            "latin": "nazzâ‘atal lisy-syawâ",
+            "terjemah": "yang mengelupaskan kulit kepala,"
+        },
+        {
+            "ayat": 17,
+            "arab": "تَدْعُوْا مَنْ اَدْبَرَ وَتَوَلّٰىۙ ۝١٧",
+            "latin": "tad‘û man adbara wa tawallâ",
+            "terjemah": "yang memanggil orang yang berpaling dan menjauh (dari agama),"
+        },
+        {
+            "ayat": 18,
+            "arab": "وَجَمَعَ فَاَوْعٰى ۝١٨",
+            "latin": "wa jama‘a fa au‘â",
+            "terjemah": "serta mengumpulkan (harta benda), lalu menyimpannya."
+        },
+        {
+            "ayat": 19,
+            "arab": "۞ اِنَّ الْاِنْسَانَ خُلِقَ هَلُوْعًاۙ ۝١٩",
+            "latin": "innal-insâna khuliqa halû‘â",
+            "terjemah": "Sesungguhnya manusia diciptakan dengan sifat keluh kesah lagi kikir."
+        },
+        {
+            "ayat": 20,
+            "arab": "اِذَا مَسَّهُ الشَّرُّ جَزُوْعًاۙ ۝٢٠",
+            "latin": "idzâ massahusy-syarru jazû‘â",
+            "terjemah": "Apabila ditimpa keburukan (kesusahan), ia berkeluh kesah."
+        },
+        {
+            "ayat": 21,
+            "arab": "وَّاِذَا مَسَّهُ الْخَيْرُ مَنُوْعًاۙ ۝٢١",
+            "latin": "wa idzâ massahul-khairu manû‘â",
+            "terjemah": "Apabila mendapat kebaikan (harta), ia amat kikir,"
+        },
+        {
+            "ayat": 22,
+            "arab": "اِلَّا الْمُصَلِّيْنَۙ ۝٢٢",
+            "latin": "illal-mushallîn",
+            "terjemah": "kecuali orang-orang yang mengerjakan salat,"
+        },
+        {
+            "ayat": 23,
+            "arab": "الَّذِيْنَ هُمْ عَلٰى صَلَاتِهِمْ دَاۤىِٕمُوْنَۖ ۝٢٣",
+            "latin": "alladzîna hum ‘alâ shalâtihim dâ'imûn",
+            "terjemah": "yang selalu setia mengerjakan salatnya,"
+        },
+        {
+            "ayat": 24,
+            "arab": "وَالَّذِيْنَ فِيْٓ اَمْوَالِهِمْ حَقٌّ مَّعْلُوْمٌۖ ۝٢٤",
+            "latin": "walladzîna fî amwâlihim ḫaqqum ma‘lûm",
+            "terjemah": "yang di dalam hartanya ada bagian tertentu"
+        },
+        {
+            "ayat": 25,
+            "arab": "لِّلسَّاۤىِٕلِ وَالْمَحْرُوْمِۖ ۝٢٥",
+            "latin": "lis-sâ'ili wal-maḫrûm",
+            "terjemah": "untuk orang (miskin) yang meminta-minta dan orang (miskin) yang menahan diri dari meminta-minta,"
+        },
+        {
+            "ayat": 26,
+            "arab": "وَالَّذِيْنَ يُصَدِّقُوْنَ بِيَوْمِ الدِّيْنِۖ ۝٢٦",
+            "latin": "walladzîna yushaddiqûna biyaumid-dîn",
+            "terjemah": "yang memercayai hari Pembalasan,"
+        },
+        {
+            "ayat": 27,
+            "arab": "وَالَّذِيْنَ هُمْ مِّنْ عَذَابِ رَبِّهِمْ مُّشْفِقُوْنَۚ ۝٢٧",
+            "latin": "walladzîna hum min ‘adzâbi rabbihim musyfiqûn",
+            "terjemah": "dan yang takut terhadap azab Tuhannya."
+        },
+        {
+            "ayat": 28,
+            "arab": "اِنَّ عَذَابَ رَبِّهِمْ غَيْرُ مَأْمُوْنٍۖ ۝٢٨",
+            "latin": "inna ‘adzâba rabbihim ghairu ma'mûn",
+            "terjemah": "Sesungguhnya tidak ada orang yang merasa aman dari azab Tuhan mereka."
+        },
+        {
+            "ayat": 29,
+            "arab": "وَّالَّذِيْنَ هُمْ لِفُرُوْجِهِمْ حٰفِظُوْنَۙ ۝٢٩",
+            "latin": "walladzîna hum lifurûjihim ḫâfidhûn",
+            "terjemah": "(Termasuk orang yang selamat dari azab adalah) orang-orang yang menjaga kemaluannya,"
+        },
+        {
+            "ayat": 30,
+            "arab": "اِلَّا عَلٰٓى اَزْوَاجِهِمْ اَوْ مَا مَلَكَتْ اَيْمَانُهُمْ فَاِنَّهُمْ غَيْرُ مَلُوْمِيْنَۚ ۝٣٠",
+            "latin": "illâ ‘alâ azwâjihim au mâ malakat aimânuhum fa innahum ghairu malûmîn",
+            "terjemah": "kecuali terhadap istri-istri mereka atau hamba sahaya yang mereka miliki. Sesungguhnya mereka tidak tercela (karena menggaulinya)."
+        },
+        {
+            "ayat": 31,
+            "arab": "فَمَنِ ابْتَغٰى وَرَاۤءَ ذٰلِكَ فَاُولٰۤىِٕكَ هُمُ الْعَادُوْنَۚ ۝٣١",
+            "latin": "fa manibtaghâ warâ'a dzâlika fa ulâ'ika humul-‘âdûn",
+            "terjemah": "Maka, siapa yang mencari (pelampiasan syahwat) selain itu, mereka itulah orang-orang yang melampaui batas."
+        },
+        {
+            "ayat": 32,
+            "arab": "وَالَّذِيْنَ هُمْ لِاَمٰنٰتِهِمْ وَعَهْدِهِمْ رٰعُوْنَۖ ۝٣٢",
+            "latin": "walladzîna hum li'amânâtihim wa ‘ahdihim râ‘ûn",
+            "terjemah": "(Termasuk orang yang selamat dari azab adalah) orang-orang yang memelihara amanat dan janji mereka,"
+        },
+        {
+            "ayat": 33,
+            "arab": "وَالَّذِيْنَ هُمْ بِشَهٰدٰتِهِمْ قَاۤىِٕمُوْنَۖ ۝٣٣",
+            "latin": "walladzîna hum bisyahâdâtihim qâ'imûn",
+            "terjemah": "yang memberikan kesaksiannya (secara benar),"
+        },
+        {
+            "ayat": 34,
+            "arab": "وَالَّذِيْنَ هُمْ عَلٰى صَلَاتِهِمْ يُحَافِظُوْنَۖ ۝٣٤",
+            "latin": "walladzîna hum ‘alâ shalâtihim yuḫâfidhûn",
+            "terjemah": "dan yang memelihara salatnya."
+        },
+        {
+            "ayat": 35,
+            "arab": "اُولٰۤىِٕكَ فِيْ جَنّٰتٍ مُّكْرَمُوْنَۗࣖ ۝٣٥",
+            "latin": "ulâ'ika fî jannâtim mukramûn",
+            "terjemah": "Mereka itu (berada) di surga lagi dimuliakan."
+        },
+        {
+            "ayat": 36,
+            "arab": "فَمَالِ الَّذِيْنَ كَفَرُوْا قِبَلَكَ مُهْطِعِيْنَۙ ۝٣٦",
+            "latin": "fa mâlilladzîna kafarû qibalaka muhthi‘în",
+            "terjemah": "Mengapa orang-orang kafir itu bersegera datang ke arahmu (Nabi Muhammad)"
+        },
+        {
+            "ayat": 37,
+            "arab": "عَنِ الْيَمِيْنِ وَعَنِ الشِّمَالِ عِزِيْنَ ۝٣٧",
+            "latin": "‘anil-yamîni wa ‘anisy-syimâli ‘izîn",
+            "terjemah": "dari kanan dan dari kiri dengan berkelompok-kelompok?"
+        },
+        {
+            "ayat": 38,
+            "arab": "اَيَطْمَعُ كُلُّ امْرِئٍ مِّنْهُمْ اَنْ يُّدْخَلَ جَنَّةَ نَعِيْمٍۙ ۝٣٨",
+            "latin": "a yathma‘u kullumri'im min-hum ay yudkhala jannata na‘îm",
+            "terjemah": "Apakah setiap orang dari mereka (orang-orang kafir itu) ingin dimasukkan ke dalam surga yang penuh kenikmatan?"
+        },
+        {
+            "ayat": 39,
+            "arab": "كَلَّاۗ اِنَّا خَلَقْنٰهُمْ مِّمَّا يَعْلَمُوْنَ ۝٣٩",
+            "latin": "kallâ, innâ khalaqnâhum mimmâ ya‘lamûn",
+            "terjemah": "Sekali-kali tidak! Sesungguhnya Kami menciptakan mereka dari apa yang mereka ketahui (air mani)."
+        },
+        {
+            "ayat": 40,
+            "arab": "فَلَآ اُقْسِمُ بِرَبِّ الْمَشٰرِقِ وَالْمَغٰرِبِ اِنَّا لَقٰدِرُوْنَۙ ۝٤٠",
+            "latin": "fa lâ uqsimu birabbil-masyâriqi wal-maghâribi innâ laqâdirûn",
+            "terjemah": "Maka, Aku bersumpah dengan Tuhan yang mengatur tempat-tempat terbit dan terbenamnya (matahari, bulan, dan bintang), sesungguhnya Kami benar-benar Mahakuasa"
+        },
+        {
+            "ayat": 41,
+            "arab": "عَلٰٓى اَنْ نُّبَدِّلَ خَيْرًا مِّنْهُمْۙ وَمَا نَحْنُ بِمَسْبُوْقِيْنَ ۝٤١",
+            "latin": "‘alâ an nubaddila khairam min-hum wa mâ naḫnu bimasbûqîn",
+            "terjemah": "untuk mengganti (mereka) dengan (kaum) yang lebih baik daripada mereka. Kami sekali-kali tidak dapat dikalahkan."
+        },
+        {
+            "ayat": 42,
+            "arab": "فَذَرْهُمْ يَخُوْضُوْا وَيَلْعَبُوْا حَتّٰى يُلٰقُوْا يَوْمَهُمُ الَّذِيْ يُوْعَدُوْنَۙ ۝٤٢",
+            "latin": "fa dzar-hum yakhûdlû wa yal‘abû ḫattâ yulâqû yaumahumulladzî yû‘adûn",
+            "terjemah": "Maka, biarkanlah mereka tenggelam (dalam kesesatan) dan bermain-main (di dunia) sampai mereka menjumpai hari yang dijanjikan kepada mereka,"
+        },
+        {
+            "ayat": 43,
+            "arab": "يَوْمَ يَخْرُجُوْنَ مِنَ الْاَجْدَاثِ سِرَاعًا كَاَنَّهُمْ اِلٰى نُصُبٍ يُّوْفِضُوْنَۙ ۝٤٣",
+            "latin": "yauma yakhrujûna minal-ajdâtsi sirâ‘ang ka'annahum ilâ nushubiy yûfidlûn",
+            "terjemah": "(yaitu) pada hari ketika mereka keluar dari kubur dengan cepat seperti ketika mereka pergi dengan segera menuju berhala-berhala (sewaktu di dunia)."
+        },
+        {
+            "ayat": 44,
+            "arab": "خَاشِعَةً اَبْصَارُهُمْ تَرْهَقُهُمْ ذِلَّةٌۗ ذٰلِكَ الْيَوْمُ الَّذِيْ كَانُوْا يُوْعَدُوْنَࣖ ۝٤٤",
+            "latin": "khâsyi‘atan abshâruhum tar-haquhum dzillah, dzâlikal-yaumulladzî kânû yû‘adûn",
+            "terjemah": "Pandangan mereka tertunduk (serta) diliputi kehinaan. Itulah hari yang diancamkan kepada mereka."
+        }
+    ]
+}

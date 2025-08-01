@@ -1,0 +1,992 @@
+[
+    {
+        "ayat": 1,
+        "arab": "Ayat Arab 1",
+        "latin": "transliterasi 1",
+        "terjemah": "Terjemahan ayat ke-1"
+    },
+    {
+        "ayat": 2,
+        "arab": "Ayat Arab 2",
+        "latin": "transliterasi 2",
+        "terjemah": "Terjemahan ayat ke-2"
+    },
+    {
+        "ayat": 3,
+        "arab": "Ayat Arab 3",
+        "latin": "transliterasi 3",
+        "terjemah": "Terjemahan ayat ke-3"
+    },
+    {
+        "ayat": 4,
+        "arab": "Ayat Arab 4",
+        "latin": "transliterasi 4",
+        "terjemah": "Terjemahan ayat ke-4"
+    },
+    {
+        "ayat": 5,
+        "arab": "Ayat Arab 5",
+        "latin": "transliterasi 5",
+        "terjemah": "Terjemahan ayat ke-5"
+    },
+    {
+        "ayat": 6,
+        "arab": "Ayat Arab 6",
+        "latin": "transliterasi 6",
+        "terjemah": "Terjemahan ayat ke-6"
+    },
+    {
+        "ayat": 7,
+        "arab": "Ayat Arab 7",
+        "latin": "transliterasi 7",
+        "terjemah": "Terjemahan ayat ke-7"
+    },
+    {
+        "ayat": 8,
+        "arab": "Ayat Arab 8",
+        "latin": "transliterasi 8",
+        "terjemah": "Terjemahan ayat ke-8"
+    },
+    {
+        "ayat": 9,
+        "arab": "Ayat Arab 9",
+        "latin": "transliterasi 9",
+        "terjemah": "Terjemahan ayat ke-9"
+    },
+    {
+        "ayat": 10,
+        "arab": "Ayat Arab 10",
+        "latin": "transliterasi 10",
+        "terjemah": "Terjemahan ayat ke-10"
+    },
+    {
+        "ayat": 11,
+        "arab": "Ayat Arab 11",
+        "latin": "transliterasi 11",
+        "terjemah": "Terjemahan ayat ke-11"
+    },
+    {
+        "ayat": 12,
+        "arab": "Ayat Arab 12",
+        "latin": "transliterasi 12",
+        "terjemah": "Terjemahan ayat ke-12"
+    },
+    {
+        "ayat": 13,
+        "arab": "Ayat Arab 13",
+        "latin": "transliterasi 13",
+        "terjemah": "Terjemahan ayat ke-13"
+    },
+    {
+        "ayat": 14,
+        "arab": "Ayat Arab 14",
+        "latin": "transliterasi 14",
+        "terjemah": "Terjemahan ayat ke-14"
+    },
+    {
+        "ayat": 15,
+        "arab": "Ayat Arab 15",
+        "latin": "transliterasi 15",
+        "terjemah": "Terjemahan ayat ke-15"
+    },
+    {
+        "ayat": 16,
+        "arab": "Ayat Arab 16",
+        "latin": "transliterasi 16",
+        "terjemah": "Terjemahan ayat ke-16"
+    },
+    {
+        "ayat": 17,
+        "arab": "Ayat Arab 17",
+        "latin": "transliterasi 17",
+        "terjemah": "Terjemahan ayat ke-17"
+    },
+    {
+        "ayat": 18,
+        "arab": "Ayat Arab 18",
+        "latin": "transliterasi 18",
+        "terjemah": "Terjemahan ayat ke-18"
+    },
+    {
+        "ayat": 19,
+        "arab": "Ayat Arab 19",
+        "latin": "transliterasi 19",
+        "terjemah": "Terjemahan ayat ke-19"
+    },
+    {
+        "ayat": 20,
+        "arab": "Ayat Arab 20",
+        "latin": "transliterasi 20",
+        "terjemah": "Terjemahan ayat ke-20"
+    },
+    {
+        "ayat": 21,
+        "arab": "Ayat Arab 21",
+        "latin": "transliterasi 21",
+        "terjemah": "Terjemahan ayat ke-21"
+    },
+    {
+        "ayat": 22,
+        "arab": "Ayat Arab 22",
+        "latin": "transliterasi 22",
+        "terjemah": "Terjemahan ayat ke-22"
+    },
+    {
+        "ayat": 23,
+        "arab": "Ayat Arab 23",
+        "latin": "transliterasi 23",
+        "terjemah": "Terjemahan ayat ke-23"
+    },
+    {
+        "ayat": 24,
+        "arab": "Ayat Arab 24",
+        "latin": "transliterasi 24",
+        "terjemah": "Terjemahan ayat ke-24"
+    },
+    {
+        "ayat": 25,
+        "arab": "Ayat Arab 25",
+        "latin": "transliterasi 25",
+        "terjemah": "Terjemahan ayat ke-25"
+    },
+    {
+        "ayat": 26,
+        "arab": "Ayat Arab 26",
+        "latin": "transliterasi 26",
+        "terjemah": "Terjemahan ayat ke-26"
+    },
+    {
+        "ayat": 27,
+        "arab": "Ayat Arab 27",
+        "latin": "transliterasi 27",
+        "terjemah": "Terjemahan ayat ke-27"
+    },
+    {
+        "ayat": 28,
+        "arab": "Ayat Arab 28",
+        "latin": "transliterasi 28",
+        "terjemah": "Terjemahan ayat ke-28"
+    },
+    {
+        "ayat": 29,
+        "arab": "Ayat Arab 29",
+        "latin": "transliterasi 29",
+        "terjemah": "Terjemahan ayat ke-29"
+    },
+    {
+        "ayat": 30,
+        "arab": "Ayat Arab 30",
+        "latin": "transliterasi 30",
+        "terjemah": "Terjemahan ayat ke-30"
+    },
+    {
+        "ayat": 31,
+        "arab": "Ayat Arab 31",
+        "latin": "transliterasi 31",
+        "terjemah": "Terjemahan ayat ke-31"
+    },
+    {
+        "ayat": 32,
+        "arab": "Ayat Arab 32",
+        "latin": "transliterasi 32",
+        "terjemah": "Terjemahan ayat ke-32"
+    },
+    {
+        "ayat": 33,
+        "arab": "Ayat Arab 33",
+        "latin": "transliterasi 33",
+        "terjemah": "Terjemahan ayat ke-33"
+    },
+    {
+        "ayat": 34,
+        "arab": "Ayat Arab 34",
+        "latin": "transliterasi 34",
+        "terjemah": "Terjemahan ayat ke-34"
+    },
+    {
+        "ayat": 35,
+        "arab": "Ayat Arab 35",
+        "latin": "transliterasi 35",
+        "terjemah": "Terjemahan ayat ke-35"
+    },
+    {
+        "ayat": 36,
+        "arab": "Ayat Arab 36",
+        "latin": "transliterasi 36",
+        "terjemah": "Terjemahan ayat ke-36"
+    },
+    {
+        "ayat": 37,
+        "arab": "Ayat Arab 37",
+        "latin": "transliterasi 37",
+        "terjemah": "Terjemahan ayat ke-37"
+    },
+    {
+        "ayat": 38,
+        "arab": "Ayat Arab 38",
+        "latin": "transliterasi 38",
+        "terjemah": "Terjemahan ayat ke-38"
+    },
+    {
+        "ayat": 39,
+        "arab": "Ayat Arab 39",
+        "latin": "transliterasi 39",
+        "terjemah": "Terjemahan ayat ke-39"
+    },
+    {
+        "ayat": 40,
+        "arab": "Ayat Arab 40",
+        "latin": "transliterasi 40",
+        "terjemah": "Terjemahan ayat ke-40"
+    },
+    {
+        "ayat": 41,
+        "arab": "Ayat Arab 41",
+        "latin": "transliterasi 41",
+        "terjemah": "Terjemahan ayat ke-41"
+    },
+    {
+        "ayat": 42,
+        "arab": "Ayat Arab 42",
+        "latin": "transliterasi 42",
+        "terjemah": "Terjemahan ayat ke-42"
+    },
+    {
+        "ayat": 43,
+        "arab": "Ayat Arab 43",
+        "latin": "transliterasi 43",
+        "terjemah": "Terjemahan ayat ke-43"
+    },
+    {
+        "ayat": 44,
+        "arab": "Ayat Arab 44",
+        "latin": "transliterasi 44",
+        "terjemah": "Terjemahan ayat ke-44"
+    },
+    {
+        "ayat": 45,
+        "arab": "Ayat Arab 45",
+        "latin": "transliterasi 45",
+        "terjemah": "Terjemahan ayat ke-45"
+    },
+    {
+        "ayat": 46,
+        "arab": "Ayat Arab 46",
+        "latin": "transliterasi 46",
+        "terjemah": "Terjemahan ayat ke-46"
+    },
+    {
+        "ayat": 47,
+        "arab": "Ayat Arab 47",
+        "latin": "transliterasi 47",
+        "terjemah": "Terjemahan ayat ke-47"
+    },
+    {
+        "ayat": 48,
+        "arab": "Ayat Arab 48",
+        "latin": "transliterasi 48",
+        "terjemah": "Terjemahan ayat ke-48"
+    },
+    {
+        "ayat": 49,
+        "arab": "Ayat Arab 49",
+        "latin": "transliterasi 49",
+        "terjemah": "Terjemahan ayat ke-49"
+    },
+    {
+        "ayat": 50,
+        "arab": "Ayat Arab 50",
+        "latin": "transliterasi 50",
+        "terjemah": "Terjemahan ayat ke-50"
+    },
+    {
+        "ayat": 51,
+        "arab": "Ayat Arab 51",
+        "latin": "transliterasi 51",
+        "terjemah": "Terjemahan ayat ke-51"
+    },
+    {
+        "ayat": 52,
+        "arab": "Ayat Arab 52",
+        "latin": "transliterasi 52",
+        "terjemah": "Terjemahan ayat ke-52"
+    },
+    {
+        "ayat": 53,
+        "arab": "Ayat Arab 53",
+        "latin": "transliterasi 53",
+        "terjemah": "Terjemahan ayat ke-53"
+    },
+    {
+        "ayat": 54,
+        "arab": "Ayat Arab 54",
+        "latin": "transliterasi 54",
+        "terjemah": "Terjemahan ayat ke-54"
+    },
+    {
+        "ayat": 55,
+        "arab": "Ayat Arab 55",
+        "latin": "transliterasi 55",
+        "terjemah": "Terjemahan ayat ke-55"
+    },
+    {
+        "ayat": 56,
+        "arab": "Ayat Arab 56",
+        "latin": "transliterasi 56",
+        "terjemah": "Terjemahan ayat ke-56"
+    },
+    {
+        "ayat": 57,
+        "arab": "Ayat Arab 57",
+        "latin": "transliterasi 57",
+        "terjemah": "Terjemahan ayat ke-57"
+    },
+    {
+        "ayat": 58,
+        "arab": "Ayat Arab 58",
+        "latin": "transliterasi 58",
+        "terjemah": "Terjemahan ayat ke-58"
+    },
+    {
+        "ayat": 59,
+        "arab": "Ayat Arab 59",
+        "latin": "transliterasi 59",
+        "terjemah": "Terjemahan ayat ke-59"
+    },
+    {
+        "ayat": 60,
+        "arab": "Ayat Arab 60",
+        "latin": "transliterasi 60",
+        "terjemah": "Terjemahan ayat ke-60"
+    },
+    {
+        "ayat": 61,
+        "arab": "Ayat Arab 61",
+        "latin": "transliterasi 61",
+        "terjemah": "Terjemahan ayat ke-61"
+    },
+    {
+        "ayat": 62,
+        "arab": "Ayat Arab 62",
+        "latin": "transliterasi 62",
+        "terjemah": "Terjemahan ayat ke-62"
+    },
+    {
+        "ayat": 63,
+        "arab": "Ayat Arab 63",
+        "latin": "transliterasi 63",
+        "terjemah": "Terjemahan ayat ke-63"
+    },
+    {
+        "ayat": 64,
+        "arab": "Ayat Arab 64",
+        "latin": "transliterasi 64",
+        "terjemah": "Terjemahan ayat ke-64"
+    },
+    {
+        "ayat": 65,
+        "arab": "Ayat Arab 65",
+        "latin": "transliterasi 65",
+        "terjemah": "Terjemahan ayat ke-65"
+    },
+    {
+        "ayat": 66,
+        "arab": "Ayat Arab 66",
+        "latin": "transliterasi 66",
+        "terjemah": "Terjemahan ayat ke-66"
+    },
+    {
+        "ayat": 67,
+        "arab": "Ayat Arab 67",
+        "latin": "transliterasi 67",
+        "terjemah": "Terjemahan ayat ke-67"
+    },
+    {
+        "ayat": 68,
+        "arab": "Ayat Arab 68",
+        "latin": "transliterasi 68",
+        "terjemah": "Terjemahan ayat ke-68"
+    },
+    {
+        "ayat": 69,
+        "arab": "Ayat Arab 69",
+        "latin": "transliterasi 69",
+        "terjemah": "Terjemahan ayat ke-69"
+    },
+    {
+        "ayat": 70,
+        "arab": "Ayat Arab 70",
+        "latin": "transliterasi 70",
+        "terjemah": "Terjemahan ayat ke-70"
+    },
+    {
+        "ayat": 71,
+        "arab": "Ayat Arab 71",
+        "latin": "transliterasi 71",
+        "terjemah": "Terjemahan ayat ke-71"
+    },
+    {
+        "ayat": 72,
+        "arab": "Ayat Arab 72",
+        "latin": "transliterasi 72",
+        "terjemah": "Terjemahan ayat ke-72"
+    },
+    {
+        "ayat": 73,
+        "arab": "Ayat Arab 73",
+        "latin": "transliterasi 73",
+        "terjemah": "Terjemahan ayat ke-73"
+    },
+    {
+        "ayat": 74,
+        "arab": "Ayat Arab 74",
+        "latin": "transliterasi 74",
+        "terjemah": "Terjemahan ayat ke-74"
+    },
+    {
+        "ayat": 75,
+        "arab": "Ayat Arab 75",
+        "latin": "transliterasi 75",
+        "terjemah": "Terjemahan ayat ke-75"
+    },
+    {
+        "ayat": 76,
+        "arab": "Ayat Arab 76",
+        "latin": "transliterasi 76",
+        "terjemah": "Terjemahan ayat ke-76"
+    },
+    {
+        "ayat": 77,
+        "arab": "Ayat Arab 77",
+        "latin": "transliterasi 77",
+        "terjemah": "Terjemahan ayat ke-77"
+    },
+    {
+        "ayat": 78,
+        "arab": "Ayat Arab 78",
+        "latin": "transliterasi 78",
+        "terjemah": "Terjemahan ayat ke-78"
+    },
+    {
+        "ayat": 79,
+        "arab": "Ayat Arab 79",
+        "latin": "transliterasi 79",
+        "terjemah": "Terjemahan ayat ke-79"
+    },
+    {
+        "ayat": 80,
+        "arab": "Ayat Arab 80",
+        "latin": "transliterasi 80",
+        "terjemah": "Terjemahan ayat ke-80"
+    },
+    {
+        "ayat": 81,
+        "arab": "Ayat Arab 81",
+        "latin": "transliterasi 81",
+        "terjemah": "Terjemahan ayat ke-81"
+    },
+    {
+        "ayat": 82,
+        "arab": "Ayat Arab 82",
+        "latin": "transliterasi 82",
+        "terjemah": "Terjemahan ayat ke-82"
+    },
+    {
+        "ayat": 83,
+        "arab": "Ayat Arab 83",
+        "latin": "transliterasi 83",
+        "terjemah": "Terjemahan ayat ke-83"
+    },
+    {
+        "ayat": 84,
+        "arab": "Ayat Arab 84",
+        "latin": "transliterasi 84",
+        "terjemah": "Terjemahan ayat ke-84"
+    },
+    {
+        "ayat": 85,
+        "arab": "Ayat Arab 85",
+        "latin": "transliterasi 85",
+        "terjemah": "Terjemahan ayat ke-85"
+    },
+    {
+        "ayat": 86,
+        "arab": "Ayat Arab 86",
+        "latin": "transliterasi 86",
+        "terjemah": "Terjemahan ayat ke-86"
+    },
+    {
+        "ayat": 87,
+        "arab": "Ayat Arab 87",
+        "latin": "transliterasi 87",
+        "terjemah": "Terjemahan ayat ke-87"
+    },
+    {
+        "ayat": 88,
+        "arab": "Ayat Arab 88",
+        "latin": "transliterasi 88",
+        "terjemah": "Terjemahan ayat ke-88"
+    },
+    {
+        "ayat": 89,
+        "arab": "Ayat Arab 89",
+        "latin": "transliterasi 89",
+        "terjemah": "Terjemahan ayat ke-89"
+    },
+    {
+        "ayat": 90,
+        "arab": "Ayat Arab 90",
+        "latin": "transliterasi 90",
+        "terjemah": "Terjemahan ayat ke-90"
+    },
+    {
+        "ayat": 91,
+        "arab": "Ayat Arab 91",
+        "latin": "transliterasi 91",
+        "terjemah": "Terjemahan ayat ke-91"
+    },
+    {
+        "ayat": 92,
+        "arab": "Ayat Arab 92",
+        "latin": "transliterasi 92",
+        "terjemah": "Terjemahan ayat ke-92"
+    },
+    {
+        "ayat": 93,
+        "arab": "Ayat Arab 93",
+        "latin": "transliterasi 93",
+        "terjemah": "Terjemahan ayat ke-93"
+    },
+    {
+        "ayat": 94,
+        "arab": "Ayat Arab 94",
+        "latin": "transliterasi 94",
+        "terjemah": "Terjemahan ayat ke-94"
+    },
+    {
+        "ayat": 95,
+        "arab": "Ayat Arab 95",
+        "latin": "transliterasi 95",
+        "terjemah": "Terjemahan ayat ke-95"
+    },
+    {
+        "ayat": 96,
+        "arab": "Ayat Arab 96",
+        "latin": "transliterasi 96",
+        "terjemah": "Terjemahan ayat ke-96"
+    },
+    {
+        "ayat": 97,
+        "arab": "Ayat Arab 97",
+        "latin": "transliterasi 97",
+        "terjemah": "Terjemahan ayat ke-97"
+    },
+    {
+        "ayat": 98,
+        "arab": "Ayat Arab 98",
+        "latin": "transliterasi 98",
+        "terjemah": "Terjemahan ayat ke-98"
+    },
+    {
+        "ayat": 99,
+        "arab": "Ayat Arab 99",
+        "latin": "transliterasi 99",
+        "terjemah": "Terjemahan ayat ke-99"
+    },
+    {
+        "ayat": 100,
+        "arab": "Ayat Arab 100",
+        "latin": "transliterasi 100",
+        "terjemah": "Terjemahan ayat ke-100"
+    },
+    {
+        "ayat": 101,
+        "arab": "Ayat Arab 101",
+        "latin": "transliterasi 101",
+        "terjemah": "Terjemahan ayat ke-101"
+    },
+    {
+        "ayat": 102,
+        "arab": "Ayat Arab 102",
+        "latin": "transliterasi 102",
+        "terjemah": "Terjemahan ayat ke-102"
+    },
+    {
+        "ayat": 103,
+        "arab": "Ayat Arab 103",
+        "latin": "transliterasi 103",
+        "terjemah": "Terjemahan ayat ke-103"
+    },
+    {
+        "ayat": 104,
+        "arab": "Ayat Arab 104",
+        "latin": "transliterasi 104",
+        "terjemah": "Terjemahan ayat ke-104"
+    },
+    {
+        "ayat": 105,
+        "arab": "Ayat Arab 105",
+        "latin": "transliterasi 105",
+        "terjemah": "Terjemahan ayat ke-105"
+    },
+    {
+        "ayat": 106,
+        "arab": "Ayat Arab 106",
+        "latin": "transliterasi 106",
+        "terjemah": "Terjemahan ayat ke-106"
+    },
+    {
+        "ayat": 107,
+        "arab": "Ayat Arab 107",
+        "latin": "transliterasi 107",
+        "terjemah": "Terjemahan ayat ke-107"
+    },
+    {
+        "ayat": 108,
+        "arab": "Ayat Arab 108",
+        "latin": "transliterasi 108",
+        "terjemah": "Terjemahan ayat ke-108"
+    },
+    {
+        "ayat": 109,
+        "arab": "Ayat Arab 109",
+        "latin": "transliterasi 109",
+        "terjemah": "Terjemahan ayat ke-109"
+    },
+    {
+        "ayat": 110,
+        "arab": "Ayat Arab 110",
+        "latin": "transliterasi 110",
+        "terjemah": "Terjemahan ayat ke-110"
+    },
+    {
+        "ayat": 111,
+        "arab": "Ayat Arab 111",
+        "latin": "transliterasi 111",
+        "terjemah": "Terjemahan ayat ke-111"
+    },
+    {
+        "ayat": 112,
+        "arab": "Ayat Arab 112",
+        "latin": "transliterasi 112",
+        "terjemah": "Terjemahan ayat ke-112"
+    },
+    {
+        "ayat": 113,
+        "arab": "Ayat Arab 113",
+        "latin": "transliterasi 113",
+        "terjemah": "Terjemahan ayat ke-113"
+    },
+    {
+        "ayat": 114,
+        "arab": "Ayat Arab 114",
+        "latin": "transliterasi 114",
+        "terjemah": "Terjemahan ayat ke-114"
+    },
+    {
+        "ayat": 115,
+        "arab": "Ayat Arab 115",
+        "latin": "transliterasi 115",
+        "terjemah": "Terjemahan ayat ke-115"
+    },
+    {
+        "ayat": 116,
+        "arab": "Ayat Arab 116",
+        "latin": "transliterasi 116",
+        "terjemah": "Terjemahan ayat ke-116"
+    },
+    {
+        "ayat": 117,
+        "arab": "Ayat Arab 117",
+        "latin": "transliterasi 117",
+        "terjemah": "Terjemahan ayat ke-117"
+    },
+    {
+        "ayat": 118,
+        "arab": "Ayat Arab 118",
+        "latin": "transliterasi 118",
+        "terjemah": "Terjemahan ayat ke-118"
+    },
+    {
+        "ayat": 119,
+        "arab": "Ayat Arab 119",
+        "latin": "transliterasi 119",
+        "terjemah": "Terjemahan ayat ke-119"
+    },
+    {
+        "ayat": 120,
+        "arab": "Ayat Arab 120",
+        "latin": "transliterasi 120",
+        "terjemah": "Terjemahan ayat ke-120"
+    },
+    {
+        "ayat": 121,
+        "arab": "Ayat Arab 121",
+        "latin": "transliterasi 121",
+        "terjemah": "Terjemahan ayat ke-121"
+    },
+    {
+        "ayat": 122,
+        "arab": "Ayat Arab 122",
+        "latin": "transliterasi 122",
+        "terjemah": "Terjemahan ayat ke-122"
+    },
+    {
+        "ayat": 123,
+        "arab": "Ayat Arab 123",
+        "latin": "transliterasi 123",
+        "terjemah": "Terjemahan ayat ke-123"
+    },
+    {
+        "ayat": 124,
+        "arab": "Ayat Arab 124",
+        "latin": "transliterasi 124",
+        "terjemah": "Terjemahan ayat ke-124"
+    },
+    {
+        "ayat": 125,
+        "arab": "Ayat Arab 125",
+        "latin": "transliterasi 125",
+        "terjemah": "Terjemahan ayat ke-125"
+    },
+    {
+        "ayat": 126,
+        "arab": "Ayat Arab 126",
+        "latin": "transliterasi 126",
+        "terjemah": "Terjemahan ayat ke-126"
+    },
+    {
+        "ayat": 127,
+        "arab": "Ayat Arab 127",
+        "latin": "transliterasi 127",
+        "terjemah": "Terjemahan ayat ke-127"
+    },
+    {
+        "ayat": 128,
+        "arab": "Ayat Arab 128",
+        "latin": "transliterasi 128",
+        "terjemah": "Terjemahan ayat ke-128"
+    },
+    {
+        "ayat": 129,
+        "arab": "Ayat Arab 129",
+        "latin": "transliterasi 129",
+        "terjemah": "Terjemahan ayat ke-129"
+    },
+    {
+        "ayat": 130,
+        "arab": "Ayat Arab 130",
+        "latin": "transliterasi 130",
+        "terjemah": "Terjemahan ayat ke-130"
+    },
+    {
+        "ayat": 131,
+        "arab": "Ayat Arab 131",
+        "latin": "transliterasi 131",
+        "terjemah": "Terjemahan ayat ke-131"
+    },
+    {
+        "ayat": 132,
+        "arab": "Ayat Arab 132",
+        "latin": "transliterasi 132",
+        "terjemah": "Terjemahan ayat ke-132"
+    },
+    {
+        "ayat": 133,
+        "arab": "Ayat Arab 133",
+        "latin": "transliterasi 133",
+        "terjemah": "Terjemahan ayat ke-133"
+    },
+    {
+        "ayat": 134,
+        "arab": "Ayat Arab 134",
+        "latin": "transliterasi 134",
+        "terjemah": "Terjemahan ayat ke-134"
+    },
+    {
+        "ayat": 135,
+        "arab": "Ayat Arab 135",
+        "latin": "transliterasi 135",
+        "terjemah": "Terjemahan ayat ke-135"
+    },
+    {
+        "ayat": 136,
+        "arab": "Ayat Arab 136",
+        "latin": "transliterasi 136",
+        "terjemah": "Terjemahan ayat ke-136"
+    },
+    {
+        "ayat": 137,
+        "arab": "Ayat Arab 137",
+        "latin": "transliterasi 137",
+        "terjemah": "Terjemahan ayat ke-137"
+    },
+    {
+        "ayat": 138,
+        "arab": "Ayat Arab 138",
+        "latin": "transliterasi 138",
+        "terjemah": "Terjemahan ayat ke-138"
+    },
+    {
+        "ayat": 139,
+        "arab": "Ayat Arab 139",
+        "latin": "transliterasi 139",
+        "terjemah": "Terjemahan ayat ke-139"
+    },
+    {
+        "ayat": 140,
+        "arab": "Ayat Arab 140",
+        "latin": "transliterasi 140",
+        "terjemah": "Terjemahan ayat ke-140"
+    },
+    {
+        "ayat": 141,
+        "arab": "Ayat Arab 141",
+        "latin": "transliterasi 141",
+        "terjemah": "Terjemahan ayat ke-141"
+    },
+    {
+        "ayat": 142,
+        "arab": "Ayat Arab 142",
+        "latin": "transliterasi 142",
+        "terjemah": "Terjemahan ayat ke-142"
+    },
+    {
+        "ayat": 143,
+        "arab": "Ayat Arab 143",
+        "latin": "transliterasi 143",
+        "terjemah": "Terjemahan ayat ke-143"
+    },
+    {
+        "ayat": 144,
+        "arab": "Ayat Arab 144",
+        "latin": "transliterasi 144",
+        "terjemah": "Terjemahan ayat ke-144"
+    },
+    {
+        "ayat": 145,
+        "arab": "Ayat Arab 145",
+        "latin": "transliterasi 145",
+        "terjemah": "Terjemahan ayat ke-145"
+    },
+    {
+        "ayat": 146,
+        "arab": "Ayat Arab 146",
+        "latin": "transliterasi 146",
+        "terjemah": "Terjemahan ayat ke-146"
+    },
+    {
+        "ayat": 147,
+        "arab": "Ayat Arab 147",
+        "latin": "transliterasi 147",
+        "terjemah": "Terjemahan ayat ke-147"
+    },
+    {
+        "ayat": 148,
+        "arab": "Ayat Arab 148",
+        "latin": "transliterasi 148",
+        "terjemah": "Terjemahan ayat ke-148"
+    },
+    {
+        "ayat": 149,
+        "arab": "Ayat Arab 149",
+        "latin": "transliterasi 149",
+        "terjemah": "Terjemahan ayat ke-149"
+    },
+    {
+        "ayat": 150,
+        "arab": "Ayat Arab 150",
+        "latin": "transliterasi 150",
+        "terjemah": "Terjemahan ayat ke-150"
+    },
+    {
+        "ayat": 151,
+        "arab": "Ayat Arab 151",
+        "latin": "transliterasi 151",
+        "terjemah": "Terjemahan ayat ke-151"
+    },
+    {
+        "ayat": 152,
+        "arab": "Ayat Arab 152",
+        "latin": "transliterasi 152",
+        "terjemah": "Terjemahan ayat ke-152"
+    },
+    {
+        "ayat": 153,
+        "arab": "Ayat Arab 153",
+        "latin": "transliterasi 153",
+        "terjemah": "Terjemahan ayat ke-153"
+    },
+    {
+        "ayat": 154,
+        "arab": "Ayat Arab 154",
+        "latin": "transliterasi 154",
+        "terjemah": "Terjemahan ayat ke-154"
+    },
+    {
+        "ayat": 155,
+        "arab": "Ayat Arab 155",
+        "latin": "transliterasi 155",
+        "terjemah": "Terjemahan ayat ke-155"
+    },
+    {
+        "ayat": 156,
+        "arab": "Ayat Arab 156",
+        "latin": "transliterasi 156",
+        "terjemah": "Terjemahan ayat ke-156"
+    },
+    {
+        "ayat": 157,
+        "arab": "Ayat Arab 157",
+        "latin": "transliterasi 157",
+        "terjemah": "Terjemahan ayat ke-157"
+    },
+    {
+        "ayat": 158,
+        "arab": "Ayat Arab 158",
+        "latin": "transliterasi 158",
+        "terjemah": "Terjemahan ayat ke-158"
+    },
+    {
+        "ayat": 159,
+        "arab": "Ayat Arab 159",
+        "latin": "transliterasi 159",
+        "terjemah": "Terjemahan ayat ke-159"
+    },
+    {
+        "ayat": 160,
+        "arab": "Ayat Arab 160",
+        "latin": "transliterasi 160",
+        "terjemah": "Terjemahan ayat ke-160"
+    },
+    {
+        "ayat": 161,
+        "arab": "Ayat Arab 161",
+        "latin": "transliterasi 161",
+        "terjemah": "Terjemahan ayat ke-161"
+    },
+    {
+        "ayat": 162,
+        "arab": "Ayat Arab 162",
+        "latin": "transliterasi 162",
+        "terjemah": "Terjemahan ayat ke-162"
+    },
+    {
+        "ayat": 163,
+        "arab": "Ayat Arab 163",
+        "latin": "transliterasi 163",
+        "terjemah": "Terjemahan ayat ke-163"
+    },
+    {
+        "ayat": 164,
+        "arab": "Ayat Arab 164",
+        "latin": "transliterasi 164",
+        "terjemah": "Terjemahan ayat ke-164"
+    },
+    {
+        "ayat": 165,
+        "arab": "Ayat Arab 165",
+        "latin": "transliterasi 165",
+        "terjemah": "Terjemahan ayat ke-165"
+    }
+]

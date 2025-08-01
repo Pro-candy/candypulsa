@@ -1,0 +1,261 @@
+{
+    "nomor": 80,
+    "nama_latin": "'Abasa",
+    "arti": "Makkiyah",
+    "jumlah_ayat": 42,
+    "slug": "abasa",
+    "ayat": [
+        {
+            "ayat": 1,
+            "arab": "عَبَسَ وَتَوَلّٰىٓۙ ۝١",
+            "latin": "‘abasa wa tawallâ",
+            "terjemah": "Dia (Nabi Muhammad) berwajah masam dan berpaling"
+        },
+        {
+            "ayat": 2,
+            "arab": "اَنْ جَاۤءَهُ الْاَعْمٰىۗ ۝٢",
+            "latin": "an jâ'ahul-a‘mâ",
+            "terjemah": "karena seorang tunanetra (Abdullah bin Ummi Maktum) telah datang kepadanya."
+        },
+        {
+            "ayat": 3,
+            "arab": "وَمَا يُدْرِيْكَ لَعَلَّهٗ يَزَّكّٰىٓۙ ۝٣",
+            "latin": "wa mâ yudrîka la‘allahû yazzakkâ",
+            "terjemah": "Tahukah engkau (Nabi Muhammad) boleh jadi dia ingin menyucikan dirinya (dari dosa)"
+        },
+        {
+            "ayat": 4,
+            "arab": "اَوْ يَذَّكَّرُ فَتَنْفَعَهُ الذِّكْرٰىۗ ۝٤",
+            "latin": "au yadzdzakkaru fa tanfa‘ahudz-dzikrâ",
+            "terjemah": "atau dia (ingin) mendapatkan pengajaran sehingga pengajaran itu bermanfaat baginya?"
+        },
+        {
+            "ayat": 5,
+            "arab": "اَمَّا مَنِ اسْتَغْنٰىۙ ۝٥",
+            "latin": "ammâ manistaghnâ",
+            "terjemah": "Adapun orang yang merasa dirinya serba cukup (para pembesar Quraisy),"
+        },
+        {
+            "ayat": 6,
+            "arab": "فَاَنْتَ لَهٗ تَصَدّٰىۗ ۝٦",
+            "latin": "fa anta lahû tashaddâ",
+            "terjemah": "engkau (Nabi Muhammad) memberi perhatian kepadanya."
+        },
+        {
+            "ayat": 7,
+            "arab": "وَمَا عَلَيْكَ اَلَّا يَزَّكّٰىۗ ۝٧",
+            "latin": "wa mâ ‘alaika allâ yazzakkâ",
+            "terjemah": "Padahal, tidak ada (cela) atasmu kalau dia tidak menyucikan diri (beriman)."
+        },
+        {
+            "ayat": 8,
+            "arab": "وَاَمَّا مَنْ جَاۤءَكَ يَسْعٰىۙ ۝٨",
+            "latin": "wa ammâ man jâ'aka yas‘â",
+            "terjemah": "Adapun orang yang datang kepadamu dengan bersegera (untuk mendapatkan pengajaran),"
+        },
+        {
+            "ayat": 9,
+            "arab": "وَهُوَ يَخْشٰىۙ ۝٩",
+            "latin": "wa huwa yakhsyâ",
+            "terjemah": "sedangkan dia takut (kepada Allah),"
+        },
+        {
+            "ayat": 10,
+            "arab": "فَاَنْتَ عَنْهُ تَلَهّٰىۚ ۝١٠",
+            "latin": "fa anta ‘an-hu talahhâ",
+            "terjemah": "malah engkau (Nabi Muhammad) abaikan."
+        },
+        {
+            "ayat": 11,
+            "arab": "كَلَّآ اِنَّهَا تَذْكِرَةٌۚ ۝١١",
+            "latin": "kallâ innahâ tadzkirah",
+            "terjemah": "Sekali-kali jangan (begitu)! Sesungguhnya (ajaran Allah) itu merupakan peringatan."
+        },
+        {
+            "ayat": 12,
+            "arab": "فَمَنْ شَاۤءَ ذَكَرَهٗۘ ۝١٢",
+            "latin": "fa man syâ'a dzakarah",
+            "terjemah": "Siapa yang menghendaki tentulah akan memperhatikannya"
+        },
+        {
+            "ayat": 13,
+            "arab": "فِيْ صُحُفٍ مُّكَرَّمَةٍۙ ۝١٣",
+            "latin": "fî shuḫufim mukarramah",
+            "terjemah": "di dalam suhuf yang dimuliakan (di sisi Allah),"
+        },
+        {
+            "ayat": 14,
+            "arab": "مَّرْفُوْعَةٍ مُّطَهَّرَةٍ ۢۙ ۝١٤",
+            "latin": "marfû‘atim muthahharah",
+            "terjemah": "yang ditinggikan (kedudukannya) lagi disucikan"
+        },
+        {
+            "ayat": 15,
+            "arab": "بِاَيْدِيْ سَفَرَةٍۙ ۝١٥",
+            "latin": "bi'aidî safarah",
+            "terjemah": "di tangan para utusan (malaikat)"
+        },
+        {
+            "ayat": 16,
+            "arab": "كِرَامٍ ۢ بَرَرَةٍۗ ۝١٦",
+            "latin": "kirâmim bararah",
+            "terjemah": "yang mulia lagi berbudi."
+        },
+        {
+            "ayat": 17,
+            "arab": "قُتِلَ الْاِنْسَانُ مَآ اَكْفَرَهٗۗ ۝١٧",
+            "latin": "qutilal-insânu mâ akfarah",
+            "terjemah": "Celakalah manusia! Alangkah kufur dia!"
+        },
+        {
+            "ayat": 18,
+            "arab": "مِنْ اَيِّ شَيْءٍ خَلَقَهٗۗ ۝١٨",
+            "latin": "min ayyi syai'in khalaqah",
+            "terjemah": "Dari apakah Dia menciptakannya?"
+        },
+        {
+            "ayat": 19,
+            "arab": "مِنْ نُّطْفَةٍۗ خَلَقَهٗ فَقَدَّرَهٗۗ ۝١٩",
+            "latin": "min nuthfah, khalaqahû fa qaddarah",
+            "terjemah": "Dia menciptakannya dari setetes mani, lalu menentukan (takdir)-nya."
+        },
+        {
+            "ayat": 20,
+            "arab": "ثُمَّ السَّبِيْلَ يَسَّرَهٗۙ ۝٢٠",
+            "latin": "tsummas-sabîla yassarah",
+            "terjemah": "Kemudian, jalannya Dia mudahkan."
+        },
+        {
+            "ayat": 21,
+            "arab": "ثُمَّ اَمَاتَهٗ فَاَقْبَرَهٗۙ ۝٢١",
+            "latin": "tsumma amâtahû fa aqbarah",
+            "terjemah": "Kemudian, Dia mematikannya lalu menguburkannya."
+        },
+        {
+            "ayat": 22,
+            "arab": "ثُمَّ اِذَا شَاۤءَ اَنْشَرَهٗۗ ۝٢٢",
+            "latin": "tsumma idzâ syâ'a ansyarah",
+            "terjemah": "Kemudian, jika menghendaki, Dia membangkitkannya kembali."
+        },
+        {
+            "ayat": 23,
+            "arab": "كَلَّا لَمَّا يَقْضِ مَآ اَمَرَهٗۗ ۝٢٣",
+            "latin": "kallâ lammâ yaqdli mâ amarah",
+            "terjemah": "Sekali-kali jangan (begitu)! Dia (manusia) itu belum melaksanakan apa yang Dia (Allah) perintahkan kepadanya."
+        },
+        {
+            "ayat": 24,
+            "arab": "فَلْيَنْظُرِ الْاِنْسَانُ اِلٰى طَعَامِهٖٓۙ ۝٢٤",
+            "latin": "falyandhuril-insânu ilâ tha‘âmih",
+            "terjemah": "Maka, hendaklah manusia itu memperhatikan makanannya."
+        },
+        {
+            "ayat": 25,
+            "arab": "اَنَّا صَبَبْنَا الْمَاۤءَ صَبًّاۙ ۝٢٥",
+            "latin": "annâ shababnal-mâ'a shabbâ",
+            "terjemah": "Sesungguhnya Kami telah mencurahkan air (dari langit) dengan berlimpah."
+        },
+        {
+            "ayat": 26,
+            "arab": "ثُمَّ شَقَقْنَا الْاَرْضَ شَقًّاۙ ۝٢٦",
+            "latin": "tsumma syaqaqnal-ardla syaqqâ",
+            "terjemah": "Kemudian, Kami belah bumi dengan sebaik-baiknya."
+        },
+        {
+            "ayat": 27,
+            "arab": "فَاَنْۢبَتْنَا فِيْهَا حَبًّاۙ ۝٢٧",
+            "latin": "fa ambatnâ fîhâ ḫabbâ",
+            "terjemah": "Lalu, Kami tumbuhkan padanya biji-bijian,"
+        },
+        {
+            "ayat": 28,
+            "arab": "وَّعِنَبًا وَّقَضْبًاۙ ۝٢٨",
+            "latin": "wa ‘inabaw wa qadlbâ",
+            "terjemah": "anggur, sayur-sayuran,"
+        },
+        {
+            "ayat": 29,
+            "arab": "وَّزَيْتُوْنًا وَّنَخْلًاۙ ۝٢٩",
+            "latin": "wa zaitûnaw wa nakhlâ",
+            "terjemah": "zaitun, pohon kurma,"
+        },
+        {
+            "ayat": 30,
+            "arab": "وَّحَدَاۤئِقَ غُلْبًا ۝٣٠",
+            "latin": "wa ḫadâ'iqa ghulbâ",
+            "terjemah": "kebun-kebun (yang) rindang,"
+        },
+        {
+            "ayat": 31,
+            "arab": "وَفَاكِهَةً وَّاَبًّا ۝٣١",
+            "latin": "wa fâkihataw wa abbâ",
+            "terjemah": "buah-buahan, dan rerumputan."
+        },
+        {
+            "ayat": 32,
+            "arab": "مَتَاعًا لَّكُمْ وَلِاَنْعَامِكُمْۗ ۝٣٢",
+            "latin": "matâ‘al lakum wa li'an‘âmikum",
+            "terjemah": "(Semua itu disediakan) untuk kesenanganmu dan hewan-hewan ternakmu."
+        },
+        {
+            "ayat": 33,
+            "arab": "فَاِذَا جَاۤءَتِ الصَّاۤخَّةُۖ ۝٣٣",
+            "latin": "fa idzâ jâ'atish-shâkhkhah",
+            "terjemah": "Maka, apabila datang suara yang memekakkan (dari tiupan sangkakala),"
+        },
+        {
+            "ayat": 34,
+            "arab": "يَوْمَ يَفِرُّ الْمَرْءُ مِنْ اَخِيْهِۙ ۝٣٤",
+            "latin": "yauma yafirrul-mar'u min akhîh",
+            "terjemah": "pada hari itu manusia lari dari saudaranya,"
+        },
+        {
+            "ayat": 35,
+            "arab": "وَاُمِّهٖ وَاَبِيْهِۙ ۝٣٥",
+            "latin": "wa ummihî wa abîh",
+            "terjemah": "(dari) ibu dan bapaknya,"
+        },
+        {
+            "ayat": 36,
+            "arab": "وَصَاحِبَتِهٖ وَبَنِيْهِۗ ۝٣٦",
+            "latin": "wa shâḫibatihî wa banîh",
+            "terjemah": "serta (dari) istri dan anak-anaknya."
+        },
+        {
+            "ayat": 37,
+            "arab": "لِكُلِّ امْرِئٍ مِّنْهُمْ يَوْمَىِٕذٍ شَأْنٌ يُّغْنِيْهِۗ ۝٣٧",
+            "latin": "likullimri'im min-hum yauma'idzin sya'nuy yughnîh",
+            "terjemah": "Setiap orang dari mereka pada hari itu mempunyai urusan yang menyibukkannya."
+        },
+        {
+            "ayat": 38,
+            "arab": "وُجُوْهٌ يَّوْمَىِٕذٍ مُّسْفِرَةٌۙ ۝٣٨",
+            "latin": "wujûhuy yauma'idzim musfirah",
+            "terjemah": "Pada hari itu ada wajah-wajah yang berseri-seri,"
+        },
+        {
+            "ayat": 39,
+            "arab": "ضَاحِكَةٌ مُّسْتَبْشِرَةٌۚ ۝٣٩",
+            "latin": "dlâḫikatum mustabsyirah",
+            "terjemah": "tertawa lagi gembira ria."
+        },
+        {
+            "ayat": 40,
+            "arab": "وَوُجُوْهٌ يَّوْمَىِٕذٍ عَلَيْهَا غَبَرَةٌۙ ۝٤٠",
+            "latin": "wa wujûhuy yauma'idzin ‘alaihâ ghabarah",
+            "terjemah": "Pada hari itu ada (pula) wajah-wajah yang tertutup debu (suram)"
+        },
+        {
+            "ayat": 41,
+            "arab": "تَرْهَقُهَا قَتَرَةٌۗ ۝٤١",
+            "latin": "tarhaquhâ qatarah",
+            "terjemah": "dan tertutup oleh kegelapan (ditimpa kehinaan dan kesusahan)."
+        },
+        {
+            "ayat": 42,
+            "arab": "اُولٰۤىِٕكَ هُمُ الْكَفَرَةُ الْفَجَرَةُࣖ ۝٤٢",
+            "latin": "ulâ'ika humul-kafaratul-fajarah",
+            "terjemah": "Mereka itulah orang-orang kafir lagi para pendurhaka."
+        }
+    ]
+}

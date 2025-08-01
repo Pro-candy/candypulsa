@@ -1,0 +1,165 @@
+{
+    "nomor": 88,
+    "nama_latin": "Al-Ghasyiyah",
+    "arti": "Makkiyah",
+    "jumlah_ayat": 26,
+    "slug": "al-ghasyiyah",
+    "ayat": [
+        {
+            "ayat": 1,
+            "arab": "هَلْ اَتٰىكَ حَدِيْثُ الْغَاشِيَةِۗ ۝١",
+            "latin": "hal atâka ḫadîtsul-ghâsyiyah",
+            "terjemah": "Sudahkah sampai kepadamu berita tentang al-Gāsyiyah (hari Kiamat yang menutupi kesadaran manusia dengan kedahsyatannya)?"
+        },
+        {
+            "ayat": 2,
+            "arab": "وُجُوْهٌ يَّوْمَىِٕذٍ خَاشِعَةٌۙ ۝٢",
+            "latin": "wujûhuy yauma'idzin khâsyi‘ah",
+            "terjemah": "Pada hari itu banyak wajah yang tertunduk hina"
+        },
+        {
+            "ayat": 3,
+            "arab": "عَامِلَةٌ نَّاصِبَةٌۙ ۝٣",
+            "latin": "‘âmilatun nâshibah",
+            "terjemah": "(karena) berusaha keras (menghindari azab neraka) lagi kepayahan (karena dibelenggu)."
+        },
+        {
+            "ayat": 4,
+            "arab": "تَصْلٰى نَارًا حَامِيَةًۙ ۝٤",
+            "latin": "tashlâ nâran ḫâmiyah",
+            "terjemah": "Mereka memasuki api (neraka) yang sangat panas."
+        },
+        {
+            "ayat": 5,
+            "arab": "تُسْقٰى مِنْ عَيْنٍ اٰنِيَةٍۗ ۝٥",
+            "latin": "tusqâ min ‘ainin âniyah",
+            "terjemah": "(Mereka) diberi minum dari sumber mata air yang sangat panas."
+        },
+        {
+            "ayat": 6,
+            "arab": "لَيْسَ لَهُمْ طَعَامٌ اِلَّا مِنْ ضَرِيْعٍۙ ۝٦",
+            "latin": "laisa lahum tha‘âmun illâ min dlarî‘",
+            "terjemah": "Tidak ada makanan bagi mereka selain dari pohon yang berduri,"
+        },
+        {
+            "ayat": 7,
+            "arab": "لَّا يُسْمِنُ وَلَا يُغْنِيْ مِنْ جُوْعٍۗ ۝٧",
+            "latin": "lâ yusminu wa lâ yughnî min jû‘",
+            "terjemah": "yang tidak menggemukkan dan tidak pula menghilangkan lapar."
+        },
+        {
+            "ayat": 8,
+            "arab": "وُجُوْهٌ يَّوْمَىِٕذٍ نَّاعِمَةٌۙ ۝٨",
+            "latin": "wujûhuy yauma'idzin nâ‘imah",
+            "terjemah": "Pada hari itu banyak (pula) wajah yang berseri-seri,"
+        },
+        {
+            "ayat": 9,
+            "arab": "لِّسَعْيِهَا رَاضِيَةٌۙ ۝٩",
+            "latin": "lisa‘yihâ râdliyah",
+            "terjemah": "merasa puas karena usahanya."
+        },
+        {
+            "ayat": 10,
+            "arab": "فِيْ جَنَّةٍ عَالِيَةٍۙ ۝١٠",
+            "latin": "fî jannatin ‘âliyah",
+            "terjemah": "(Mereka) dalam surga yang tinggi."
+        },
+        {
+            "ayat": 11,
+            "arab": "لَّا تَسْمَعُ فِيْهَا لَاغِيَةًۗ ۝١١",
+            "latin": "lâ tasma‘u fîhâ lâghiyah",
+            "terjemah": "Di sana kamu tidak mendengar (perkataan) yang tidak berguna."
+        },
+        {
+            "ayat": 12,
+            "arab": "فِيْهَا عَيْنٌ جَارِيَةٌۘ ۝١٢",
+            "latin": "fîhâ ‘ainun jâriyah",
+            "terjemah": "Di sana ada mata air yang mengalir."
+        },
+        {
+            "ayat": 13,
+            "arab": "فِيْهَا سُرُرٌ مَّرْفُوْعَةٌۙ ۝١٣",
+            "latin": "fîhâ sururum marfû‘ah",
+            "terjemah": "Di sana ada (pula) dipan-dipan yang ditinggikan,"
+        },
+        {
+            "ayat": 14,
+            "arab": "وَّاَكْوَابٌ مَّوْضُوْعَةٌۙ ۝١٤",
+            "latin": "wa akwâbum maudlû‘ah",
+            "terjemah": "gelas-gelas yang tersedia (di dekatnya),"
+        },
+        {
+            "ayat": 15,
+            "arab": "وَّنَمَارِقُ مَصْفُوْفَةٌۙ ۝١٥",
+            "latin": "wa namâriqu mashfûfah",
+            "terjemah": "bantal-bantal sandaran yang tersusun,"
+        },
+        {
+            "ayat": 16,
+            "arab": "وَّزَرَابِيُّ مَبْثُوْثَةٌۗ ۝١٦",
+            "latin": "wa zarâbiyyu mabtsûtsah",
+            "terjemah": "dan permadani-permadani yang terhampar."
+        },
+        {
+            "ayat": 17,
+            "arab": "اَفَلَا يَنْظُرُوْنَ اِلَى الْاِبِلِ كَيْفَ خُلِقَتْۗ ۝١٧",
+            "latin": "a fa lâ yandhurûna ilal-ibili kaifa khuliqat",
+            "terjemah": "Tidakkah mereka memperhatikan unta, bagaimana ia diciptakan?"
+        },
+        {
+            "ayat": 18,
+            "arab": "وَاِلَى السَّمَاۤءِ كَيْفَ رُفِعَتْۗ ۝١٨",
+            "latin": "wa ilas-samâ'i kaifa rufi‘at",
+            "terjemah": "Bagaimana langit ditinggikan?"
+        },
+        {
+            "ayat": 19,
+            "arab": "وَاِلَى الْجِبَالِ كَيْفَ نُصِبَتْۗ ۝١٩",
+            "latin": "wa ilal-jibâli kaifa nushibat",
+            "terjemah": "Bagaimana gunung-gunung ditegakkan?"
+        },
+        {
+            "ayat": 20,
+            "arab": "وَاِلَى الْاَرْضِ كَيْفَ سُطِحَتْۗ ۝٢٠",
+            "latin": "wa ilal-ardli kaifa suthiḫat",
+            "terjemah": "Bagaimana pula bumi dihamparkan?"
+        },
+        {
+            "ayat": 21,
+            "arab": "فَذَكِّرْۗ اِنَّمَآ اَنْتَ مُذَكِّرٌۙ ۝٢١",
+            "latin": "fa dzakkir, innamâ anta mudzakkir",
+            "terjemah": "Maka, berilah peringatan karena sesungguhnya engkau (Nabi Muhammad) hanyalah pemberi peringatan."
+        },
+        {
+            "ayat": 22,
+            "arab": "لَّسْتَ عَلَيْهِمْ بِمُصَيْطِرٍۙ ۝٢٢",
+            "latin": "lasta ‘alaihim bimushaithir",
+            "terjemah": "Engkau bukanlah orang yang berkuasa atas mereka."
+        },
+        {
+            "ayat": 23,
+            "arab": "اِلَّا مَنْ تَوَلّٰى وَكَفَرَۙ ۝٢٣",
+            "latin": "illâ man tawallâ wa kafar",
+            "terjemah": "Akan tetapi, orang yang berpaling dan kufur,"
+        },
+        {
+            "ayat": 24,
+            "arab": "فَيُعَذِّبُهُ اللّٰهُ الْعَذَابَ الْاَكْبَرَۗ ۝٢٤",
+            "latin": "fa yu‘adzdzibuhullâhul-‘adzâbal-akbar",
+            "terjemah": "Allah akan mengazabnya dengan azab yang paling besar."
+        },
+        {
+            "ayat": 25,
+            "arab": "اِنَّ اِلَيْنَآ اِيَابَهُمْ ۝٢٥",
+            "latin": "inna ilainâ iyâbahum",
+            "terjemah": "Sesungguhnya kepada Kamilah mereka kembali."
+        },
+        {
+            "ayat": 26,
+            "arab": "ثُمَّ اِنَّ عَلَيْنَا حِسَابَهُمْࣖ ۝٢٦",
+            "latin": "tsumma inna ‘alainâ ḫisâbahum",
+            "terjemah": "Kemudian, sesungguhnya Kamilah yang berhak melakukan hisab (perhitungan) atas mereka."
+        }
+    ]
+}

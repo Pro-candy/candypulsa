@@ -1,0 +1,51 @@
+{
+    "nomor": 1,
+    "nama_latin": "Al-Fatihah",
+    "arti": "Makkiyah",
+    "jumlah_ayat": 7,
+    "slug": "al-fatihah",
+    "ayat": [
+        {
+            "ayat": 1,
+            "arab": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ ۝١",
+            "latin": "bismillâhir-raḫmânir-raḫîm",
+            "terjemah": "Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang."
+        },
+        {
+            "ayat": 2,
+            "arab": "اَلْحَمْدُ لِلّٰهِ رَبِّ الْعٰلَمِيْنَۙ ۝٢",
+            "latin": "al-ḫamdu lillâhi rabbil-‘âlamîn",
+            "terjemah": "Segala puji bagi Allah, Tuhan semesta alam"
+        },
+        {
+            "ayat": 3,
+            "arab": "الرَّحْمٰنِ الرَّحِيْمِۙ ۝٣",
+            "latin": "ar-raḫmânir-raḫîm",
+            "terjemah": "Yang Maha Pengasih lagi Maha Penyayang,"
+        },
+        {
+            "ayat": 4,
+            "arab": "مٰلِكِ يَوْمِ الدِّيْنِۗ ۝٤",
+            "latin": "mâliki yaumid-dîn",
+            "terjemah": "Pemilik hari Pembalasan."
+        },
+        {
+            "ayat": 5,
+            "arab": "اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَعِيْنُۗ ۝٥",
+            "latin": "iyyâka na‘budu wa iyyâka nasta‘în",
+            "terjemah": "Hanya kepada Engkaulah kami menyembah dan hanya kepada Engkaulah kami memohon pertolongan."
+        },
+        {
+            "ayat": 6,
+            "arab": "اِهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَۙ ۝٦",
+            "latin": "ihdinash-shirâthal-mustaqîm",
+            "terjemah": "Bimbinglah kami ke jalan yang lurus,"
+        },
+        {
+            "ayat": 7,
+            "arab": "صِرَاطَ الَّذِيْنَ اَنْعَمْتَ عَلَيْهِمْ ەۙ غَيْرِ الْمَغْضُوْبِ عَلَيْهِمْ وَلَا الضَّاۤلِّيْنَࣖ ۝٧",
+            "latin": "shirâthalladzîna an‘amta ‘alaihim ghairil-maghdlûbi ‘alaihim wa ladl-dlâllîn",
+            "terjemah": "(yaitu) jalan orang-orang yang telah Engkau beri nikmat, bukan (jalan) mereka yang dimurkai dan bukan (pula jalan) orang-orang yang sesat."
+        }
+    ]
+}

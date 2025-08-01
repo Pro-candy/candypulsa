@@ -1,0 +1,63 @@
+{
+    "nomor": 104,
+    "nama_latin": "Al-Humazah",
+    "arti": "Makkiyah",
+    "jumlah_ayat": 9,
+    "slug": "al-humazah",
+    "ayat": [
+        {
+            "ayat": 1,
+            "arab": "وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍۙ ۝١",
+            "latin": "wailul likulli humazatil lumazah",
+            "terjemah": "Celakalah setiap pengumpat lagi pencela"
+        },
+        {
+            "ayat": 2,
+            "arab": "ࣙالَّذِيْ جَمَعَ مَالًا وَّعَدَّدَهٗۙ ۝٢",
+            "latin": "alladzî jama‘a mâlaw wa ‘addadah",
+            "terjemah": "yang mengumpulkan harta dan menghitung-hitungnya."
+        },
+        {
+            "ayat": 3,
+            "arab": "يَحْسَبُ اَنَّ مَالَهٗٓ اَخْلَدَهٗۚ ۝٣",
+            "latin": "yaḫsabu anna mâlahû akhladah",
+            "terjemah": "Dia (manusia) mengira bahwa hartanya dapat mengekalkannya."
+        },
+        {
+            "ayat": 4,
+            "arab": "كَلَّا لَيُنْۢبَذَنَّ فِى الْحُطَمَةِۖ ۝٤",
+            "latin": "kallâ layumbadzanna fil-ḫuthamah",
+            "terjemah": "Sekali-kali tidak! Pasti dia akan dilemparkan ke dalam (neraka) Hutamah."
+        },
+        {
+            "ayat": 5,
+            "arab": "وَمَآ اَدْرٰىكَ مَا الْحُطَمَةُۗ ۝٥",
+            "latin": "wa mâ adrâka mal-ḫuthamah",
+            "terjemah": "Tahukah kamu apakah (neraka) Hutamah?"
+        },
+        {
+            "ayat": 6,
+            "arab": "نَارُ اللّٰهِ الْمُوْقَدَةُۙ ۝٦",
+            "latin": "nârullâhil-mûqadah",
+            "terjemah": "(Ia adalah) api (azab) Allah yang dinyalakan"
+        },
+        {
+            "ayat": 7,
+            "arab": "الَّتِيْ تَطَّلِعُ عَلَى الْاَفْـِٕدَةِۗ ۝٧",
+            "latin": "allatî taththali‘u ‘alal-af'idah",
+            "terjemah": "yang (membakar) naik sampai ke hati."
+        },
+        {
+            "ayat": 8,
+            "arab": "اِنَّهَا عَلَيْهِمْ مُّؤْصَدَةٌۙ ۝٨",
+            "latin": "innahâ ‘alaihim mu'shadah",
+            "terjemah": "Sesungguhnya dia (api itu) tertutup rapat (sebagai hukuman) atas mereka,"
+        },
+        {
+            "ayat": 9,
+            "arab": "فِيْ عَمَدٍ مُّمَدَّدَةٍࣖ ۝٩",
+            "latin": "fî ‘amadim mumaddadah",
+            "terjemah": "(sedangkan mereka) diikat pada tiang-tiang yang panjang."
+        }
+    ]
+}

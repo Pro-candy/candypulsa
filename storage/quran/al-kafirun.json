@@ -1,0 +1,45 @@
+{
+    "nomor": 109,
+    "nama_latin": "Al-Kafirun",
+    "arti": "Makkiyah",
+    "jumlah_ayat": 6,
+    "slug": "al-kafirun",
+    "ayat": [
+        {
+            "ayat": 1,
+            "arab": "قُلْ يٰٓاَيُّهَا الْكٰفِرُوْنَۙ ۝١",
+            "latin": "qul yâ ayyuhal-kâfirûn",
+            "terjemah": "Katakanlah (Nabi Muhammad), “Wahai orang-orang kafir,"
+        },
+        {
+            "ayat": 2,
+            "arab": "لَآ اَعْبُدُ مَا تَعْبُدُوْنَۙ ۝٢",
+            "latin": "lâ a‘budu mâ ta‘budûn",
+            "terjemah": "aku tidak akan menyembah apa yang kamu sembah."
+        },
+        {
+            "ayat": 3,
+            "arab": "وَلَآ اَنْتُمْ عٰبِدُوْنَ مَآ اَعْبُدُۚ ۝٣",
+            "latin": "wa lâ antum ‘âbidûna mâ a‘bud",
+            "terjemah": "Kamu juga bukan penyembah apa yang aku sembah."
+        },
+        {
+            "ayat": 4,
+            "arab": "وَلَآ اَنَا۠ عَابِدٌ مَّا عَبَدْتُّمْۙ ۝٤",
+            "latin": "wa lâ ana ‘âbidum mâ ‘abattum",
+            "terjemah": "Aku juga tidak pernah menjadi penyembah apa yang kamu sembah."
+        },
+        {
+            "ayat": 5,
+            "arab": "وَلَآ اَنْتُمْ عٰبِدُوْنَ مَآ اَعْبُدُۗ ۝٥",
+            "latin": "wa lâ antum ‘âbidûna mâ a‘bud",
+            "terjemah": "Kamu tidak pernah (pula) menjadi penyembah apa yang aku sembah."
+        },
+        {
+            "ayat": 6,
+            "arab": "لَكُمْ دِيْنُكُمْ وَلِيَ دِيْنِࣖ ۝٦",
+            "latin": "lakum dînukum wa liya dîn",
+            "terjemah": "Untukmu agamamu dan untukku agamaku.”"
+        }
+    ]
+}

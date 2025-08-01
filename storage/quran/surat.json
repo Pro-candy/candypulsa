@@ -1,0 +1,800 @@
+[
+    {
+        "nomor": 1,
+        "nama_latin": "Al-Fatihah",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 7,
+        "slug": "al-fatihah"
+    },
+    {
+        "nomor": 2,
+        "nama_latin": "Al-Baqarah",
+        "arti": "Madaniyah",
+        "jumlah_ayat": 286,
+        "slug": "al-baqarah"
+    },
+    {
+        "nomor": 3,
+        "nama_latin": "Ali 'Imran",
+        "arti": "Madaniyah",
+        "jumlah_ayat": 200,
+        "slug": "ali-imran"
+    },
+    {
+        "nomor": 4,
+        "nama_latin": "An-Nisa'",
+        "arti": "Madaniyah",
+        "jumlah_ayat": 176,
+        "slug": "an-nisa"
+    },
+    {
+        "nomor": 5,
+        "nama_latin": "Al-Ma'idah",
+        "arti": "Madaniyah",
+        "jumlah_ayat": 120,
+        "slug": "al-maidah"
+    },
+    {
+        "nomor": 6,
+        "nama_latin": "Al-An'am",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 165,
+        "slug": "al-anam"
+    },
+    {
+        "nomor": 7,
+        "nama_latin": "Al-A'raf",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 206,
+        "slug": "al-araf"
+    },
+    {
+        "nomor": 8,
+        "nama_latin": "Al-Anfal",
+        "arti": "Madaniyah",
+        "jumlah_ayat": 75,
+        "slug": "al-anfal"
+    },
+    {
+        "nomor": 9,
+        "nama_latin": "At-Taubah",
+        "arti": "Madaniyah",
+        "jumlah_ayat": 129,
+        "slug": "at-taubah"
+    },
+    {
+        "nomor": 10,
+        "nama_latin": "Yunus",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 109,
+        "slug": "yunus"
+    },
+    {
+        "nomor": 11,
+        "nama_latin": "Hud",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 123,
+        "slug": "hud"
+    },
+    {
+        "nomor": 12,
+        "nama_latin": "Yusuf",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 111,
+        "slug": "yusuf"
+    },
+    {
+        "nomor": 13,
+        "nama_latin": "Ar-Ra'd",
+        "arti": "Madaniyah",
+        "jumlah_ayat": 43,
+        "slug": "ar-rad"
+    },
+    {
+        "nomor": 14,
+        "nama_latin": "Ibrahim",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 52,
+        "slug": "ibrahim"
+    },
+    {
+        "nomor": 15,
+        "nama_latin": "Al-Hijr",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 99,
+        "slug": "al-hijr"
+    },
+    {
+        "nomor": 16,
+        "nama_latin": "An-Nahl",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 128,
+        "slug": "an-nahl"
+    },
+    {
+        "nomor": 17,
+        "nama_latin": "Al-Isra'",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 111,
+        "slug": "al-isra"
+    },
+    {
+        "nomor": 18,
+        "nama_latin": "Al-Kahf",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 110,
+        "slug": "al-kahf"
+    },
+    {
+        "nomor": 19,
+        "nama_latin": "Maryam",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 98,
+        "slug": "maryam"
+    },
+    {
+        "nomor": 20,
+        "nama_latin": "Thaha",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 135,
+        "slug": "thaha"
+    },
+    {
+        "nomor": 21,
+        "nama_latin": "Al-Anbiya'",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 112,
+        "slug": "al-anbiya"
+    },
+    {
+        "nomor": 22,
+        "nama_latin": "Al-Hajj",
+        "arti": "Madaniyah",
+        "jumlah_ayat": 78,
+        "slug": "al-hajj"
+    },
+    {
+        "nomor": 23,
+        "nama_latin": "Al-Mu'minun",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 118,
+        "slug": "al-muminun"
+    },
+    {
+        "nomor": 24,
+        "nama_latin": "An-Nur",
+        "arti": "Madaniyah",
+        "jumlah_ayat": 64,
+        "slug": "an-nur"
+    },
+    {
+        "nomor": 25,
+        "nama_latin": "Al-Furqan",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 77,
+        "slug": "al-furqan"
+    },
+    {
+        "nomor": 26,
+        "nama_latin": "Asy-Syu'ara'",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 227,
+        "slug": "asy-syuara"
+    },
+    {
+        "nomor": 27,
+        "nama_latin": "An-Naml",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 93,
+        "slug": "an-naml"
+    },
+    {
+        "nomor": 28,
+        "nama_latin": "Al-Qashash",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 88,
+        "slug": "al-qashash"
+    },
+    {
+        "nomor": 29,
+        "nama_latin": "Al-'Ankabut",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 69,
+        "slug": "al-ankabut"
+    },
+    {
+        "nomor": 30,
+        "nama_latin": "Ar-Rum",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 60,
+        "slug": "ar-rum"
+    },
+    {
+        "nomor": 31,
+        "nama_latin": "Luqman",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 34,
+        "slug": "luqman"
+    },
+    {
+        "nomor": 32,
+        "nama_latin": "As-Sajdah",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 30,
+        "slug": "as-sajdah"
+    },
+    {
+        "nomor": 33,
+        "nama_latin": "Al-Ahzab",
+        "arti": "Madaniyah",
+        "jumlah_ayat": 73,
+        "slug": "al-ahzab"
+    },
+    {
+        "nomor": 34,
+        "nama_latin": "Saba'",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 54,
+        "slug": "saba"
+    },
+    {
+        "nomor": 35,
+        "nama_latin": "Fathir",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 45,
+        "slug": "fathir"
+    },
+    {
+        "nomor": 36,
+        "nama_latin": "Yasin",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 83,
+        "slug": "yasin"
+    },
+    {
+        "nomor": 37,
+        "nama_latin": "Ash-Shaffat",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 182,
+        "slug": "ash-shaffat"
+    },
+    {
+        "nomor": 38,
+        "nama_latin": "Shad",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 88,
+        "slug": "shad"
+    },
+    {
+        "nomor": 39,
+        "nama_latin": "Az-Zumar",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 75,
+        "slug": "az-zumar"
+    },
+    {
+        "nomor": 40,
+        "nama_latin": "Ghafir",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 85,
+        "slug": "ghafir"
+    },
+    {
+        "nomor": 41,
+        "nama_latin": "Fushshilat",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 54,
+        "slug": "fushshilat"
+    },
+    {
+        "nomor": 42,
+        "nama_latin": "Asy-Syura",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 53,
+        "slug": "asy-syura"
+    },
+    {
+        "nomor": 43,
+        "nama_latin": "Az-Zukhruf",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 89,
+        "slug": "az-zukhruf"
+    },
+    {
+        "nomor": 44,
+        "nama_latin": "Ad-Dukhan",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 59,
+        "slug": "ad-dukhan"
+    },
+    {
+        "nomor": 45,
+        "nama_latin": "Al-Jatsiyah",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 37,
+        "slug": "al-jatsiyah"
+    },
+    {
+        "nomor": 46,
+        "nama_latin": "Al-Ahqaf",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 35,
+        "slug": "al-ahqaf"
+    },
+    {
+        "nomor": 47,
+        "nama_latin": "Muhammad",
+        "arti": "Madaniyah",
+        "jumlah_ayat": 38,
+        "slug": "muhammad"
+    },
+    {
+        "nomor": 48,
+        "nama_latin": "Al-Fath",
+        "arti": "Madaniyah",
+        "jumlah_ayat": 29,
+        "slug": "al-fath"
+    },
+    {
+        "nomor": 49,
+        "nama_latin": "Al-Hujurat",
+        "arti": "Madaniyah",
+        "jumlah_ayat": 18,
+        "slug": "al-hujurat"
+    },
+    {
+        "nomor": 50,
+        "nama_latin": "Qaf",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 45,
+        "slug": "qaf"
+    },
+    {
+        "nomor": 51,
+        "nama_latin": "Adz-Dzariyat",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 60,
+        "slug": "adz-dzariyat"
+    },
+    {
+        "nomor": 52,
+        "nama_latin": "At-Thur",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 49,
+        "slug": "at-thur"
+    },
+    {
+        "nomor": 53,
+        "nama_latin": "An-Najm",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 62,
+        "slug": "an-najm"
+    },
+    {
+        "nomor": 54,
+        "nama_latin": "Al-Qamar",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 55,
+        "slug": "al-qamar"
+    },
+    {
+        "nomor": 55,
+        "nama_latin": "Ar-Rahman",
+        "arti": "Madaniyah",
+        "jumlah_ayat": 78,
+        "slug": "ar-rahman"
+    },
+    {
+        "nomor": 56,
+        "nama_latin": "Al-Waqi'ah",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 96,
+        "slug": "al-waqiah"
+    },
+    {
+        "nomor": 57,
+        "nama_latin": "Al-Hadid",
+        "arti": "Madaniyah",
+        "jumlah_ayat": 29,
+        "slug": "al-hadid"
+    },
+    {
+        "nomor": 58,
+        "nama_latin": "Al-Mujadilah",
+        "arti": "Madaniyah",
+        "jumlah_ayat": 22,
+        "slug": "al-mujadilah"
+    },
+    {
+        "nomor": 59,
+        "nama_latin": "Al-Hasyr",
+        "arti": "Madaniyah",
+        "jumlah_ayat": 24,
+        "slug": "al-hasyr"
+    },
+    {
+        "nomor": 60,
+        "nama_latin": "Al-Mumtahanah",
+        "arti": "Madaniyah",
+        "jumlah_ayat": 13,
+        "slug": "al-mumtahanah"
+    },
+    {
+        "nomor": 61,
+        "nama_latin": "Ash-Shaff",
+        "arti": "Madaniyah",
+        "jumlah_ayat": 14,
+        "slug": "ash-shaff"
+    },
+    {
+        "nomor": 62,
+        "nama_latin": "Al-Jumu'ah",
+        "arti": "Madaniyah",
+        "jumlah_ayat": 11,
+        "slug": "al-jumuah"
+    },
+    {
+        "nomor": 63,
+        "nama_latin": "Al-Munafiqun",
+        "arti": "Madaniyah",
+        "jumlah_ayat": 11,
+        "slug": "al-munafiqun"
+    },
+    {
+        "nomor": 64,
+        "nama_latin": "At-Taghabun",
+        "arti": "Madaniyah",
+        "jumlah_ayat": 18,
+        "slug": "at-taghabun"
+    },
+    {
+        "nomor": 65,
+        "nama_latin": "At-Thalaq",
+        "arti": "Madaniyah",
+        "jumlah_ayat": 12,
+        "slug": "at-thalaq"
+    },
+    {
+        "nomor": 66,
+        "nama_latin": "At-Tahrim",
+        "arti": "Madaniyah",
+        "jumlah_ayat": 12,
+        "slug": "at-tahrim"
+    },
+    {
+        "nomor": 67,
+        "nama_latin": "Al-Mulk",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 30,
+        "slug": "al-mulk"
+    },
+    {
+        "nomor": 68,
+        "nama_latin": "Al-Qalam",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 52,
+        "slug": "al-qalam"
+    },
+    {
+        "nomor": 69,
+        "nama_latin": "Al-Haqqah",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 52,
+        "slug": "al-haqqah"
+    },
+    {
+        "nomor": 70,
+        "nama_latin": "Al-Ma'arij",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 44,
+        "slug": "al-maarij"
+    },
+    {
+        "nomor": 71,
+        "nama_latin": "Nuh",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 28,
+        "slug": "nuh"
+    },
+    {
+        "nomor": 72,
+        "nama_latin": "Al-Jinn",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 28,
+        "slug": "al-jinn"
+    },
+    {
+        "nomor": 73,
+        "nama_latin": "Al-Muzzammil",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 20,
+        "slug": "al-muzzammil"
+    },
+    {
+        "nomor": 74,
+        "nama_latin": "Al-Muddatstsir",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 56,
+        "slug": "al-muddatstsir"
+    },
+    {
+        "nomor": 75,
+        "nama_latin": "Al-Qiyamah",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 40,
+        "slug": "al-qiyamah"
+    },
+    {
+        "nomor": 76,
+        "nama_latin": "Al-Insan",
+        "arti": "Madaniyah",
+        "jumlah_ayat": 31,
+        "slug": "al-insan"
+    },
+    {
+        "nomor": 77,
+        "nama_latin": "Al-Mursalat",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 50,
+        "slug": "al-mursalat"
+    },
+    {
+        "nomor": 78,
+        "nama_latin": "An-Naba'",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 40,
+        "slug": "an-naba"
+    },
+    {
+        "nomor": 79,
+        "nama_latin": "An-Nazi'at",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 46,
+        "slug": "an-naziat"
+    },
+    {
+        "nomor": 80,
+        "nama_latin": "'Abasa",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 42,
+        "slug": "abasa"
+    },
+    {
+        "nomor": 81,
+        "nama_latin": "At-Takwir",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 29,
+        "slug": "at-takwir"
+    },
+    {
+        "nomor": 82,
+        "nama_latin": "Al-Infithar",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 19,
+        "slug": "al-infithar"
+    },
+    {
+        "nomor": 83,
+        "nama_latin": "Al-Muthaffifin",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 36,
+        "slug": "al-muthaffifin"
+    },
+    {
+        "nomor": 84,
+        "nama_latin": "Al-Insyiqaq",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 25,
+        "slug": "al-insyiqaq"
+    },
+    {
+        "nomor": 85,
+        "nama_latin": "Al-Buruj",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 22,
+        "slug": "al-buruj"
+    },
+    {
+        "nomor": 86,
+        "nama_latin": "At-Thariq",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 17,
+        "slug": "at-thariq"
+    },
+    {
+        "nomor": 87,
+        "nama_latin": "Al-A'la",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 19,
+        "slug": "al-ala"
+    },
+    {
+        "nomor": 88,
+        "nama_latin": "Al-Ghasyiyah",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 26,
+        "slug": "al-ghasyiyah"
+    },
+    {
+        "nomor": 89,
+        "nama_latin": "Al-Fajr",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 30,
+        "slug": "al-fajr"
+    },
+    {
+        "nomor": 90,
+        "nama_latin": "Al-Balad",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 20,
+        "slug": "al-balad"
+    },
+    {
+        "nomor": 91,
+        "nama_latin": "Asy-Syams",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 15,
+        "slug": "asy-syams"
+    },
+    {
+        "nomor": 92,
+        "nama_latin": "Al-Lail",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 21,
+        "slug": "al-lail"
+    },
+    {
+        "nomor": 93,
+        "nama_latin": "Adh-Dhuha",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 11,
+        "slug": "adh-dhuha"
+    },
+    {
+        "nomor": 94,
+        "nama_latin": "Al-Insyirah",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 8,
+        "slug": "al-insyirah"
+    },
+    {
+        "nomor": 95,
+        "nama_latin": "At-Tin",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 8,
+        "slug": "at-tin"
+    },
+    {
+        "nomor": 96,
+        "nama_latin": "Al-'Alaq",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 19,
+        "slug": "al-alaq"
+    },
+    {
+        "nomor": 97,
+        "nama_latin": "Al-Qadr",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 5,
+        "slug": "al-qadr"
+    },
+    {
+        "nomor": 98,
+        "nama_latin": "Al-Bayyinah",
+        "arti": "Madaniyah",
+        "jumlah_ayat": 8,
+        "slug": "al-bayyinah"
+    },
+    {
+        "nomor": 99,
+        "nama_latin": "Az-Zalzalah",
+        "arti": "Madaniyah",
+        "jumlah_ayat": 8,
+        "slug": "az-zalzalah"
+    },
+    {
+        "nomor": 100,
+        "nama_latin": "Al-'Adiyat",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 11,
+        "slug": "al-adiyat"
+    },
+    {
+        "nomor": 101,
+        "nama_latin": "Al-Qari'ah",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 11,
+        "slug": "al-qariah"
+    },
+    {
+        "nomor": 102,
+        "nama_latin": "At-Takatsur",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 8,
+        "slug": "at-takatsur"
+    },
+    {
+        "nomor": 103,
+        "nama_latin": "Al-'Ashr",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 3,
+        "slug": "al-ashr"
+    },
+    {
+        "nomor": 104,
+        "nama_latin": "Al-Humazah",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 9,
+        "slug": "al-humazah"
+    },
+    {
+        "nomor": 105,
+        "nama_latin": "Al-Fil",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 5,
+        "slug": "al-fil"
+    },
+    {
+        "nomor": 106,
+        "nama_latin": "Quraisy",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 4,
+        "slug": "quraisy"
+    },
+    {
+        "nomor": 107,
+        "nama_latin": "Al-Ma'un",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 7,
+        "slug": "al-maun"
+    },
+    {
+        "nomor": 108,
+        "nama_latin": "Al-Kautsar",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 3,
+        "slug": "al-kautsar"
+    },
+    {
+        "nomor": 109,
+        "nama_latin": "Al-Kafirun",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 6,
+        "slug": "al-kafirun"
+    },
+    {
+        "nomor": 110,
+        "nama_latin": "An-Nashr",
+        "arti": "Madaniyah",
+        "jumlah_ayat": 3,
+        "slug": "an-nashr"
+    },
+    {
+        "nomor": 111,
+        "nama_latin": "Al-Lahab",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 5,
+        "slug": "al-lahab"
+    },
+    {
+        "nomor": 112,
+        "nama_latin": "Al-Ikhlash",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 4,
+        "slug": "al-ikhlash"
+    },
+    {
+        "nomor": 113,
+        "nama_latin": "Al-Falaq",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 5,
+        "slug": "al-falaq"
+    },
+    {
+        "nomor": 114,
+        "nama_latin": "An-Nas",
+        "arti": "Makkiyah",
+        "jumlah_ayat": 6,
+        "slug": "an-nas"
+    }
+]

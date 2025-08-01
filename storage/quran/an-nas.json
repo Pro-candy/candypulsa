@@ -1,0 +1,45 @@
+{
+    "nomor": 114,
+    "nama_latin": "An-Nas",
+    "arti": "Makkiyah",
+    "jumlah_ayat": 6,
+    "slug": "an-nas",
+    "ayat": [
+        {
+            "ayat": 1,
+            "arab": "قُلْ اَعُوْذُ بِرَبِّ النَّاسِۙ ۝١",
+            "latin": "qul a‘ûdzu birabbin-nâs",
+            "terjemah": "Katakanlah (Nabi Muhammad), “Aku berlindung kepada Tuhan manusia,"
+        },
+        {
+            "ayat": 2,
+            "arab": "مَلِكِ النَّاسِۙ ۝٢",
+            "latin": "malikin-nâs",
+            "terjemah": "raja manusia,"
+        },
+        {
+            "ayat": 3,
+            "arab": "اِلٰهِ النَّاسِۙ ۝٣",
+            "latin": "ilâhin-nâs",
+            "terjemah": "sembahan manusia"
+        },
+        {
+            "ayat": 4,
+            "arab": "مِنْ شَرِّ الْوَسْوَاسِ ەۙ الْخَنَّاسِۖ ۝٤",
+            "latin": "min syarril-waswâsil-khannâs",
+            "terjemah": "dari kejahatan (setan) pembisik yang bersembunyi"
+        },
+        {
+            "ayat": 5,
+            "arab": "الَّذِيْ يُوَسْوِسُ فِيْ صُدُوْرِ النَّاسِۙ ۝٥",
+            "latin": "alladzî yuwaswisu fî shudûrin-nâs",
+            "terjemah": "yang membisikkan (kejahatan) ke dalam dada manusia,"
+        },
+        {
+            "ayat": 6,
+            "arab": "مِنَ الْجِنَّةِ وَالنَّاسِࣖ ۝٦",
+            "latin": "minal-jinnati wan-nâs",
+            "terjemah": "dari (golongan) jin dan manusia.”"
+        }
+    ]
+}

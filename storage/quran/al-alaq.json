@@ -1,0 +1,123 @@
+{
+    "nomor": 96,
+    "nama_latin": "Al-'Alaq",
+    "arti": "Makkiyah",
+    "jumlah_ayat": 19,
+    "slug": "al-alaq",
+    "ayat": [
+        {
+            "ayat": 1,
+            "arab": "اِقْرَأْ بِاسْمِ رَبِّكَ الَّذِيْ خَلَقَۚ ۝١",
+            "latin": "iqra' bismi rabbikalladzî khalaq",
+            "terjemah": "Bacalah dengan (menyebut) nama Tuhanmu yang menciptakan!"
+        },
+        {
+            "ayat": 2,
+            "arab": "خَلَقَ الْاِنْسَانَ مِنْ عَلَقٍۚ ۝٢",
+            "latin": "khalaqal-insâna min ‘alaq",
+            "terjemah": "Dia menciptakan manusia dari segumpal darah."
+        },
+        {
+            "ayat": 3,
+            "arab": "اِقْرَأْ وَرَبُّكَ الْاَكْرَمُۙ ۝٣",
+            "latin": "iqra' wa rabbukal-akram",
+            "terjemah": "Bacalah! Tuhanmulah Yang Mahamulia,"
+        },
+        {
+            "ayat": 4,
+            "arab": "الَّذِيْ عَلَّمَ بِالْقَلَمِۙ ۝٤",
+            "latin": "alladzî ‘allama bil-qalam",
+            "terjemah": "yang mengajar (manusia) dengan pena."
+        },
+        {
+            "ayat": 5,
+            "arab": "عَلَّمَ الْاِنْسَانَ مَا لَمْ يَعْلَمْۗ ۝٥",
+            "latin": "‘allamal-insâna mâ lam ya‘lam",
+            "terjemah": "Dia mengajarkan manusia apa yang tidak diketahuinya."
+        },
+        {
+            "ayat": 6,
+            "arab": "كَلَّآ اِنَّ الْاِنْسَانَ لَيَطْغٰىٓۙ ۝٦",
+            "latin": "kallâ innal-insâna layathghâ",
+            "terjemah": "Sekali-kali tidak! Sesungguhnya manusia itu benar-benar melampaui batas"
+        },
+        {
+            "ayat": 7,
+            "arab": "اَنْ رَّاٰهُ اسْتَغْنٰىۗ ۝٧",
+            "latin": "ar ra'âhustaghnâ",
+            "terjemah": "ketika melihat dirinya serba berkecukupan."
+        },
+        {
+            "ayat": 8,
+            "arab": "اِنَّ اِلٰى رَبِّكَ الرُّجْعٰىۗ ۝٨",
+            "latin": "inna ilâ rabbikar-ruj‘â",
+            "terjemah": "Sesungguhnya hanya kepada Tuhanmulah tempat kembali(-mu)."
+        },
+        {
+            "ayat": 9,
+            "arab": "اَرَاَيْتَ الَّذِيْ يَنْهٰىۙ ۝٩",
+            "latin": "a ra'aitalladzî yan-hâ",
+            "terjemah": "Tahukah kamu tentang orang yang melarang"
+        },
+        {
+            "ayat": 10,
+            "arab": "عَبْدًا اِذَا صَلّٰىۗ ۝١٠",
+            "latin": "‘abdan idzâ shallâ",
+            "terjemah": "seorang hamba ketika dia melaksanakan salat?"
+        },
+        {
+            "ayat": 11,
+            "arab": "اَرَاَيْتَ اِنْ كَانَ عَلَى الْهُدٰىٓۙ ۝١١",
+            "latin": "a ra'aita ing kâna ‘alal-hudâ",
+            "terjemah": "Bagaimana pendapatmu kalau terbukti dia berada di dalam kebenaran"
+        },
+        {
+            "ayat": 12,
+            "arab": "اَوْ اَمَرَ بِالتَّقْوٰىۗ ۝١٢",
+            "latin": "au amara bit-taqwâ",
+            "terjemah": "atau dia menyuruh bertakwa (kepada Allah)?"
+        },
+        {
+            "ayat": 13,
+            "arab": "اَرَاَيْتَ اِنْ كَذَّبَ وَتَوَلّٰىۗ ۝١٣",
+            "latin": "a ra'aita ing kadzdzaba wa tawallâ",
+            "terjemah": "Bagaimana pendapatmu kalau dia mendustakan (kebenaran) dan berpaling (dari keimanan)?"
+        },
+        {
+            "ayat": 14,
+            "arab": "اَلَمْ يَعْلَمْ بِاَنَّ اللّٰهَ يَرٰىۗ ۝١٤",
+            "latin": "a lam ya‘lam bi'annallâha yarâ",
+            "terjemah": "Tidakkah dia mengetahui bahwa sesungguhnya Allah melihat (segala perbuatannya)?"
+        },
+        {
+            "ayat": 15,
+            "arab": "كَلَّا لَىِٕنْ لَّمْ يَنْتَهِ ەۙ لَنَسْفَعًا ۢ بِالنَّاصِيَةِۙ ۝١٥",
+            "latin": "kallâ la'il lam yantahi lanasfa‘am bin-nâshiyah",
+            "terjemah": "Sekali-kali tidak! Sungguh, jika dia tidak berhenti (berbuat demikian), niscaya Kami tarik ubun-ubunnya (ke dalam neraka),"
+        },
+        {
+            "ayat": 16,
+            "arab": "نَاصِيَةٍ كَاذِبَةٍ خَاطِئَةٍۚ ۝١٦",
+            "latin": "nâshiyating kâdzibatin khâthi'ah",
+            "terjemah": "(yaitu) ubun-ubun orang yang mendustakan (kebenaran) dan durhaka."
+        },
+        {
+            "ayat": 17,
+            "arab": "فَلْيَدْعُ نَادِيَهٗۙ ۝١٧",
+            "latin": "falyad‘u nâdiyah",
+            "terjemah": "Biarlah dia memanggil golongannya (untuk menolongnya)."
+        },
+        {
+            "ayat": 18,
+            "arab": "سَنَدْعُ الزَّبَانِيَةَۙ ۝١٨",
+            "latin": "sanad‘uz-zabâniyah",
+            "terjemah": "Kelak Kami akan memanggil (Malaikat) Zabaniah (penyiksa orang-orang yang berdosa)."
+        },
+        {
+            "ayat": 19,
+            "arab": "كَلَّاۗ لَا تُطِعْهُ وَاسْجُدْ وَاقْتَرِبْ ۩ࣖ ۝١٩",
+            "latin": "kallâ, lâ tuthi‘hu wasjud waqtarib",
+            "terjemah": "Sekali-kali tidak! Janganlah patuh kepadanya, (tetapi) sujud dan mendekatlah (kepada Allah)."
+        }
+    ]
+}

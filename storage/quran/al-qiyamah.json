@@ -1,0 +1,249 @@
+{
+    "nomor": 75,
+    "nama_latin": "Al-Qiyamah",
+    "arti": "Makkiyah",
+    "jumlah_ayat": 40,
+    "slug": "al-qiyamah",
+    "ayat": [
+        {
+            "ayat": 1,
+            "arab": "لَآ اُقْسِمُ بِيَوْمِ الْقِيٰمَةِۙ ۝١",
+            "latin": "lâ uqsimu biyaumil-qiyâmah",
+            "terjemah": "Aku bersumpah demi hari Kiamat."
+        },
+        {
+            "ayat": 2,
+            "arab": "وَلَآ اُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ ۝٢",
+            "latin": "wa lâ uqsimu bin-nafsil-lawwâmah",
+            "terjemah": "Aku bersumpah demi jiwa yang sangat menyesali (dirinya sendiri)."
+        },
+        {
+            "ayat": 3,
+            "arab": "اَيَحْسَبُ الْاِنْسَانُ اَلَّنْ نَّجْمَعَ عِظَامَهٗۗ ۝٣",
+            "latin": "a yaḫsabul-insânu allan najma‘a ‘idhâmah",
+            "terjemah": "Apakah manusia mengira bahwa Kami tidak akan mengumpulkan (kembali) tulang-belulangnya?"
+        },
+        {
+            "ayat": 4,
+            "arab": "بَلٰى قٰدِرِيْنَ عَلٰٓى اَنْ نُّسَوِّيَ بَنَانَهٗ ۝٤",
+            "latin": "balâ qâdirîna ‘alâ an nusawwiya banânah",
+            "terjemah": "Tentu, (bahkan) Kami mampu menyusun (kembali) jari-jemarinya dengan sempurna."
+        },
+        {
+            "ayat": 5,
+            "arab": "بَلْ يُرِيْدُ الْاِنْسَانُ لِيَفْجُرَ اَمَامَهٗۚ ۝٥",
+            "latin": "bal yurîdul-insânu liyafjura amâmah",
+            "terjemah": "Akan tetapi, manusia hendak berbuat maksiat terus-menerus."
+        },
+        {
+            "ayat": 6,
+            "arab": "يَسْـَٔلُ اَيَّانَ يَوْمُ الْقِيٰمَةِۗ ۝٦",
+            "latin": "yas'alu ayyâna yaumul-qiyâmah",
+            "terjemah": "Dia bertanya, “Kapankah hari Kiamat itu?”"
+        },
+        {
+            "ayat": 7,
+            "arab": "فَاِذَا بَرِقَ الْبَصَرُۙ ۝٧",
+            "latin": "fa idzâ bariqal-bashar",
+            "terjemah": "Apabila mata terbelalak (ketakutan),"
+        },
+        {
+            "ayat": 8,
+            "arab": "وَخَسَفَ الْقَمَرُۙ ۝٨",
+            "latin": "wa khasafal-qamar",
+            "terjemah": "bulan pun telah hilang cahayanya,"
+        },
+        {
+            "ayat": 9,
+            "arab": "وَجُمِعَ الشَّمْسُ وَالْقَمَرُۙ ۝٩",
+            "latin": "wa jumi‘asy-syamsu wal-qamar",
+            "terjemah": "serta matahari dan bulan dikumpulkan,"
+        },
+        {
+            "ayat": 10,
+            "arab": "يَقُوْلُ الْاِنْسَانُ يَوْمَىِٕذٍ اَيْنَ الْمَفَرُّۚ ۝١٠",
+            "latin": "yaqûlul-insânu yauma'idzin ainal-mafarr",
+            "terjemah": "pada hari itu manusia berkata, “Ke mana tempat lari?”"
+        },
+        {
+            "ayat": 11,
+            "arab": "كَلَّا لَا وَزَرَۗ ۝١١",
+            "latin": "kallâ lâ wazar",
+            "terjemah": "Sekali-kali tidak! Tidak ada tempat berlindung."
+        },
+        {
+            "ayat": 12,
+            "arab": "اِلٰى رَبِّكَ يَوْمَىِٕذِ ࣙالْمُسْتَقَرُّۗ ۝١٢",
+            "latin": "ilâ rabbika yauma'idzinil-mustaqarr",
+            "terjemah": "(Hanya) kepada Tuhanmu tempat kembali pada hari itu."
+        },
+        {
+            "ayat": 13,
+            "arab": "يُنَبَّؤُا الْاِنْسَانُ يَوْمَىِٕذٍ ۢ بِمَا قَدَّمَ وَاَخَّرَۗ ۝١٣",
+            "latin": "yunabba'ul-insânu yauma'idzim bimâ qaddama wa akhkhar",
+            "terjemah": "Pada hari itu diberitakan kepada manusia apa yang telah dia kerjakan dan apa yang telah dia lalaikan."
+        },
+        {
+            "ayat": 14,
+            "arab": "بَلِ الْاِنْسَانُ عَلٰى نَفْسِهٖ بَصِيْرَةٌۙ ۝١٤",
+            "latin": "balil-insânu ‘alâ nafsihî bashîrah",
+            "terjemah": "Bahkan, manusia menjadi saksi atas dirinya sendiri"
+        },
+        {
+            "ayat": 15,
+            "arab": "وَّلَوْ اَلْقٰى مَعَاذِيْرَهٗۗ ۝١٥",
+            "latin": "walau alqâ ma‘âdzîrah",
+            "terjemah": "walaupun dia mengemukakan alasan-alasan(-nya)."
+        },
+        {
+            "ayat": 16,
+            "arab": "لَا تُحَرِّكْ بِهٖ لِسَانَكَ لِتَعْجَلَ بِهٖۗ ۝١٦",
+            "latin": "lâ tuḫarrik bihî lisânaka lita‘jala bih",
+            "terjemah": "Jangan engkau (Nabi Muhammad) gerakkan lidahmu (untuk membaca Al-Qur’an) karena hendak tergesa-gesa (menguasai)-nya."
+        },
+        {
+            "ayat": 17,
+            "arab": "اِنَّ عَلَيْنَا جَمْعَهٗ وَقُرْاٰنَهٗۚ ۝١٧",
+            "latin": "inna ‘alainâ jam‘ahû wa qur'ânah",
+            "terjemah": "Sesungguhnya tugas Kamilah untuk mengumpulkan (dalam hatimu) dan membacakannya."
+        },
+        {
+            "ayat": 18,
+            "arab": "فَاِذَا قَرَأْنٰهُ فَاتَّبِعْ قُرْاٰنَهٗۚ ۝١٨",
+            "latin": "fa idzâ qara'nâhu fattabi‘ qur'ânah",
+            "terjemah": "Maka, apabila Kami telah selesai membacakannya, ikutilah bacaannya itu."
+        },
+        {
+            "ayat": 19,
+            "arab": "ثُمَّ اِنَّ عَلَيْنَا بَيَانَهٗۗ ۝١٩",
+            "latin": "tsumma inna ‘alainâ bayânah",
+            "terjemah": "Kemudian, sesungguhnya tugas Kami (pula)-lah (untuk) menjelaskannya."
+        },
+        {
+            "ayat": 20,
+            "arab": "كَلَّا بَلْ تُحِبُّوْنَ الْعَاجِلَةَۙ ۝٢٠",
+            "latin": "kallâ bal tuḫibbûnal-‘âjilah",
+            "terjemah": "Sekali-kali tidak! Bahkan, kamu mencintai kehidupan dunia,"
+        },
+        {
+            "ayat": 21,
+            "arab": "وَتَذَرُوْنَ الْاٰخِرَةَۗ ۝٢١",
+            "latin": "wa tadzarûnal-âkhirah",
+            "terjemah": "dan mengabaikan (kehidupan) akhirat."
+        },
+        {
+            "ayat": 22,
+            "arab": "وُجُوْهٌ يَّوْمَىِٕذٍ نَّاضِرَةٌۙ ۝٢٢",
+            "latin": "wujûhuy yauma'idzin nâdlirah",
+            "terjemah": "Wajah-wajah (orang mukmin) pada hari itu berseri-seri"
+        },
+        {
+            "ayat": 23,
+            "arab": "اِلٰى رَبِّهَا نَاظِرَةٌۚ ۝٢٣",
+            "latin": "ilâ rabbihâ nâdhirah",
+            "terjemah": "(karena) memandang Tuhannya."
+        },
+        {
+            "ayat": 24,
+            "arab": "وَوُجُوْهٌ يَّوْمَىِٕذٍ ۢ بَاسِرَةٌۙ ۝٢٤",
+            "latin": "wa wujûhuy yauma'idzim bâsirah",
+            "terjemah": "Wajah-wajah (orang kafir) pada hari itu muram"
+        },
+        {
+            "ayat": 25,
+            "arab": "تَظُنُّ اَنْ يُّفْعَلَ بِهَا فَاقِرَةٌۗ ۝٢٥",
+            "latin": "tadhunnu ay yuf‘ala bihâ fâqirah",
+            "terjemah": "(karena) mereka yakin akan ditimpakan kepadanya malapetaka yang sangat dahsyat."
+        },
+        {
+            "ayat": 26,
+            "arab": "كَلَّآ اِذَا بَلَغَتِ التَّرَاقِيَۙ ۝٢٦",
+            "latin": "kallâ idzâ balaghatit-tarâqî",
+            "terjemah": "Sekali-kali tidak! Apabila (nyawa) telah sampai di kerongkongan,"
+        },
+        {
+            "ayat": 27,
+            "arab": "وَقِيْلَ مَنْࣝ رَاقٍۙ ۝٢٧",
+            "latin": "wa qîla man râq",
+            "terjemah": "dan dikatakan (kepadanya), “Siapa yang (dapat) menyembuhkan?”"
+        },
+        {
+            "ayat": 28,
+            "arab": "وَّظَنَّ اَنَّهُ الْفِرَاقُۙ ۝٢٨",
+            "latin": "wa dhanna annahul-firâq",
+            "terjemah": "Dia pun yakin bahwa itulah waktu perpisahan (dengan dunia),"
+        },
+        {
+            "ayat": 29,
+            "arab": "وَالْتَفَّتِ السَّاقُ بِالسَّاقِۙ ۝٢٩",
+            "latin": "waltaffatis-sâqu bis-sâq",
+            "terjemah": "dan bertautlah betis (kiri) dengan betis (kanan)."
+        },
+        {
+            "ayat": 30,
+            "arab": "اِلٰى رَبِّكَ يَوْمَىِٕذِ ࣙالْمَسَاقُۗࣖ ۝٣٠",
+            "latin": "ilâ rabbika yauma'idzinil-masâq",
+            "terjemah": "Kepada Tuhanmulah pada hari itu (manusia) digiring."
+        },
+        {
+            "ayat": 31,
+            "arab": "فَلَا صَدَّقَ وَلَا صَلّٰىۙ ۝٣١",
+            "latin": "fa lâ shaddaqa wa lâ shallâ",
+            "terjemah": "Dia tidak membenarkan (Al-Qur’an dan Rasul) dan tidak melaksanakan salat."
+        },
+        {
+            "ayat": 32,
+            "arab": "وَلٰكِنْ كَذَّبَ وَتَوَلّٰىۙ ۝٣٢",
+            "latin": "wa lâking kadzdzaba wa tawallâ",
+            "terjemah": "Akan tetapi, dia mendustakan (Al-Qur’an) dan berpaling (dari kebenaran)."
+        },
+        {
+            "ayat": 33,
+            "arab": "ثُمَّ ذَهَبَ اِلٰٓى اَهْلِهٖ يَتَمَطّٰىۗ ۝٣٣",
+            "latin": "tsumma dzahaba ilâ ahlihî yatamaththâ",
+            "terjemah": "Kemudian, dia pergi kepada keluarganya dengan menyombongkan diri."
+        },
+        {
+            "ayat": 34,
+            "arab": "اَوْلٰى لَكَ فَاَوْلٰىۙ ۝٣٤",
+            "latin": "aulâ laka fa aulâ",
+            "terjemah": "Celakalah kamu! Maka, celakalah!"
+        },
+        {
+            "ayat": 35,
+            "arab": "ثُمَّ اَوْلٰى لَكَ فَاَوْلٰىۗ ۝٣٥",
+            "latin": "tsumma aulâ laka fa aulâ",
+            "terjemah": "Kemudian, celakalah kamu! Maka, celakalah!"
+        },
+        {
+            "ayat": 36,
+            "arab": "اَيَحْسَبُ الْاِنْسَانُ اَنْ يُّتْرَكَ سُدًىۗ ۝٣٦",
+            "latin": "a yaḫsabul-insânu ay yutraka sudâ",
+            "terjemah": "Apakah manusia mengira akan dibiarkan begitu saja (tanpa pertanggungjawaban)?"
+        },
+        {
+            "ayat": 37,
+            "arab": "اَلَمْ يَكُ نُطْفَةً مِّنْ مَّنِيٍّ يُّمْنٰى ۝٣٧",
+            "latin": "a lam yaku nuthfatam mim maniyyiy yumnâ",
+            "terjemah": "Bukankah dia dahulu setetes mani yang ditumpahkan (ke dalam rahim)?"
+        },
+        {
+            "ayat": 38,
+            "arab": "ثُمَّ كَانَ عَلَقَةً فَخَلَقَ فَسَوّٰىۙ ۝٣٨",
+            "latin": "tsumma kâna ‘alaqatan fa khalaqa fa sawwâ",
+            "terjemah": "Kemudian, (mani itu) menjadi sesuatu yang melekat, lalu Dia menciptakan dan menyempurnakannya."
+        },
+        {
+            "ayat": 39,
+            "arab": "فَجَعَلَ مِنْهُ الزَّوْجَيْنِ الذَّكَرَ وَالْاُنْثٰىۗ ۝٣٩",
+            "latin": "fa ja‘ala min-huz-zaujainidz-dzakara wal-untsâ",
+            "terjemah": "Lalu, Dia menjadikan darinya sepasang laki-laki dan perempuan."
+        },
+        {
+            "ayat": 40,
+            "arab": "اَلَيْسَ ذٰلِكَ بِقٰدِرٍ عَلٰٓى اَنْ يُّحْيِىَ الْمَوْتٰىࣖ ۝٤٠",
+            "latin": "a laisa dzâlika biqâdirin ‘alâ ay yuḫyiyal-mautâ",
+            "terjemah": "Bukankah (Allah) itu kuasa (pula) menghidupkan orang mati?"
+        }
+    ]
+}
