@@ -17,6 +17,7 @@ use App\Http\Controllers\PelangganController;
 use App\Http\Controllers\TransaksiPulsaController;
 use App\Http\Controllers\ProdukPembelianController;
 use App\Http\Controllers\ProdukRiwayatStokController;
+use App\Http\Controllers\TransaksiTokoController;
 
 // LANDING PAGE - satu route saja
 Route::get('/', function () {
@@ -60,6 +61,8 @@ Route::prefix('member-area')->group(function () {
 
         Route::get('/produk/kategori', [ProdukKategoriController::class, 'index'])->name('member-area.produk.kategori');
         Route::post('/produk/kategori', [ProdukKategoriController::class, 'store'])->name('member-area.produk.kategori.store');
+    
+        Route::get('/produk-toko/semua', [TransaksiTokoController::class, 'semuaProduk'])->name('produk.produk-toko.semua');
 
         Route::get('/inbox-reseller', [OutboxResellerController::class, 'index'])->name('inbox-reseller.index');
         Route::post('/inbox-reseller/mark-all-read', [OutboxResellerController::class, 'markAllRead'])->name('inbox-reseller.markAllRead');

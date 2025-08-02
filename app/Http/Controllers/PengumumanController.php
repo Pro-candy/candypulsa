@@ -55,7 +55,7 @@ class PengumumanController extends Controller
 
         if ($request->ajax()) {
             // Kembalikan bagian table saja
-            return view('member-area.pengumuman.index', compact('pengumuman', 'readIds'))->renderSections()['content'];
+            return view('member-area.pengumuman.index', compact('pengumuman', 'readIds'))->render();
         }
 
         return view('member-area.pengumuman.index', compact('pengumuman', 'readIds'));

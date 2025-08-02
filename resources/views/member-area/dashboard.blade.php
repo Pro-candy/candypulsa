@@ -146,7 +146,7 @@
                             </button>
                         </div>
                         <div class="col-6 col-md-4 col-lg-3">
-                            <button class="btn btn-dark btn-lg w-100">
+                            <button class="btn btn-dark btn-lg w-100" id="btnTransaksiToko">
                                 <i class="bi bi-shop"></i> Transaksi Toko
                             </button>
                         </div>
@@ -163,41 +163,31 @@
                                 <th>Nama Produk</th>
                                 <th style="width: 100px;">Qty</th>
                                 <th style="width: 150px;">Harga</th>
-                                <th style="width: 50px;">Aksi</th>
+                                <th style="width: 100px;">Aksi</th>
                             </tr>
                         </thead>
                         <tbody id="daftarProdukBody">
                             <!-- Diisi dinamis dengan JS -->
                         </tbody>
+                        <tfoot>
+                            <tr class="fw-bold bg-light">
+                                <td class="text-center" colspan="3">Jumlah:</td>
+                                <td>
+                                    <input type="text" id="totalQty" class="form-control text-end fw-bold" value="0" readonly style="font-size:1.1em;">
+                                </td>
+                                <td colspan="2">
+                                    <input type="text" id="totalPembayaran" class="form-control text-end fw-bold" value="0" readonly style="font-size:1.1em;">
+                                </td>
+                            </tr>
+                        </tfoot>
                     </table>
                 </div>
 
                 <!-- RINGKASAN DAN PROSES -->
                 <div class="card-footer bg-light">
-                    <div class="row g-2 mb-3">
-                        <div class="col-md-3 offset-md-6">
-                            <label class="form-label mb-1">Jumlah:</label>
-                            <input type="text" class="form-control text-end" value="30.000" readonly>
-                        </div>
-                        <div class="col-md-3">
-                            <label class="form-label mb-1">Diskon:</label>
-                            <input type="number" class="form-control text-end" value="0">
-                        </div>
-                        <div class="col-md-3 offset-md-6">
-                            <label class="form-label mb-1">Pembayaran:</label>
-                            <input type="number" class="form-control text-end" value="30000">
-                        </div>
-                        <div class="col-md-3">
-                            <label class="form-label mb-1">Kembalian:</label>
-                            <input type="text" class="form-control text-end" value="0" readonly>
-                        </div>
-                    </div>
-
-                    <div class="text-end">
-                        <button class="btn btn-lg btn-dark">
-                            <i class="bi bi-cash-coin me-1"></i> Proses Pembayaran
+                        <button id="btnProsesPembayaranToko" class="btn btn-lg btn-dark float-end">
+                        <i class="bi bi-cash-coin me-1"></i> Proses Pembayaran
                         </button>
-                    </div>
                 </div>
             </div>
         </div>

@@ -11,6 +11,7 @@ use Illuminate\Support\Facades\Auth;
 use Illuminate\Pagination\LengthAwarePaginator;
 use App\Models\ProductPurchase;
 use App\Models\SupplierReseller;
+use Illuminate\Support\Facades\Log;
 
 
 
@@ -206,14 +207,14 @@ class ProdukController extends Controller
                 'is_pulsa' => $is_pulsa ?? false,
             ])->render();
 
-            $pagination = $paginated->appends($request->except('page'))->links('pagination::bootstrap-5')->render();
+            $pagination = $paginated->appends($request->except('page'))->links('pagination::bootstrap-5');
 
             return response()->json([
                 'html' => $html,
                 'pagination' => $pagination,
             ]);
         } catch (\Throwable $e) {
-            \Log::error('AJAX Produk Error: ' . $e->getMessage());
+            Log::error('AJAX Produk Error: ' . $e->getMessage());
             return response()->json([
                 'html' => '<tr><td colspan="7" class="text-danger">Error: ' . $e->getMessage() . '</td></tr>',
                 'pagination' => '',
@@ -295,7 +296,7 @@ class ProdukController extends Controller
 
         ProdukHargaReseller::updateOrInsert(
             [
-                'reseller_id' => auth()->id(),
+                'reseller_id' => Auth::guard('reseller')->id(),
                 'produk_kode' => $request->kode,
             ],
             [

@@ -7,6 +7,7 @@ use Illuminate\Support\Facades\Auth;
 use App\Models\ProductCategory;
 use App\Models\Produk;
 use App\Models\Product;
+use App\Models\ProdukHargaReseller;
 use Illuminate\Support\Facades\DB;
 
 class ProdukKategoriController extends Controller

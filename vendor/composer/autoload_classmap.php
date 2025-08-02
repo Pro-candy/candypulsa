@@ -40,6 +40,7 @@ return array(
     'App\\Http\\Controllers\\ProfileResellerController' => $baseDir . '/app/Http/Controllers/ProfileResellerController.php',
     'App\\Http\\Controllers\\SaldoController' => $baseDir . '/app/Http/Controllers/SaldoController.php',
     'App\\Http\\Controllers\\TransaksiPulsaController' => $baseDir . '/app/Http/Controllers/TransaksiPulsaController.php',
+    'App\\Http\\Controllers\\TransaksiTokoController' => $baseDir . '/app/Http/Controllers/TransaksiTokoController.php',
     'App\\Http\\Middleware\\RedirectIfAdmin' => $baseDir . '/app/Http/Middleware/RedirectIfAdmin.php',
     'App\\Models\\Admin' => $baseDir . '/app/Models/Admin.php',
     'App\\Models\\DetailTransaksiTokoReseller' => $baseDir . '/app/Models/DetailTransaksiTokoReseller.php',

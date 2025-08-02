@@ -809,6 +809,7 @@ class ComposerStaticInita87f6d95b8f57ac40e8a9a23c222882e
         'App\\Http\\Controllers\\ProfileResellerController' => __DIR__ . '/../..' . '/app/Http/Controllers/ProfileResellerController.php',
         'App\\Http\\Controllers\\SaldoController' => __DIR__ . '/../..' . '/app/Http/Controllers/SaldoController.php',
         'App\\Http\\Controllers\\TransaksiPulsaController' => __DIR__ . '/../..' . '/app/Http/Controllers/TransaksiPulsaController.php',
+        'App\\Http\\Controllers\\TransaksiTokoController' => __DIR__ . '/../..' . '/app/Http/Controllers/TransaksiTokoController.php',
         'App\\Http\\Middleware\\RedirectIfAdmin' => __DIR__ . '/../..' . '/app/Http/Middleware/RedirectIfAdmin.php',
         'App\\Models\\Admin' => __DIR__ . '/../..' . '/app/Models/Admin.php',
         'App\\Models\\DetailTransaksiTokoReseller' => __DIR__ . '/../..' . '/app/Models/DetailTransaksiTokoReseller.php',

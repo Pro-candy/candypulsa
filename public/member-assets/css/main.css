@@ -12,3 +12,6 @@
   left: 0;
   z-index: 1050;
 }
+.clickable {
+  cursor: pointer;
+}
